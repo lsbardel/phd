@@ -1,0 +1,1750 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.11.27)  9 AUG 2025 16:05
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**thesis.tex
+(./thesis.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo
+File: bk12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count187
+\c@chapter=\count188
+\c@section=\count189
+\c@subsection=\count190
+\c@subsubsection=\count191
+\c@paragraph=\count192
+\c@subparagraph=\count193
+\c@figure=\count194
+\c@table=\count195
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (./TOOLS/newcom.tex)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+)
+(/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip50
+\subfigcapskip=\skip51
+\subfigcaptopadj=\dimen143
+\subfigbottomskip=\skip52
+\subfigcapmargin=\dimen144
+\subfiglabelskip=\skip53
+\c@subfigure=\count196
+\c@lofdepth=\count197
+\c@subtable=\count198
+\c@lotdepth=\count199
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip54
+\subfig@bottom=\skip55
+)
+(./chicago.sty
+Using Chicago Manual of Style bibliography: 31 August 1992
+\bibhang=\skip56
+\bibindent=\dimen145
+) (./title.tex)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count266
+\l__pdf_internal_box=\box51
+)
+(./thesis.aux)
+\openout1 = `thesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count267
+\scratchdimen=\dimen146
+\scratchbox=\box52
+\nofMPsegments=\count268
+\nofMParguments=\count269
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count270
+\MPscratchDim=\dimen147
+\MPnumerator=\count271
+\makeMPintoPDFobject=\count272
+\everyMPtoPDFconversion=\toks19
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 43.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 43.
+
+Overfull \hbox (12.00002pt too wide) in paragraph at lines 43--43
+ [][] 
+ []
+
+[1
+
+
+
+
+] [2{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./parent.tex
+[1]) (./acknowledge.tex) (./abstract.tex [1
+
+] [2
+
+]) [3] (./thesis.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 7.
+ [4
+
+]
+[5] [6])
+\tf@toc=\write3
+\openout3 = `thesis.toc'.
+
+ (./nomencla.tex [7]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 17.
+ [8
+
+] [9] [10]) [11] (./thesis.lof [12
+
+] [13]
+[14] [15]
+Overfull \hbox (4.24486pt too wide) in paragraph at lines 215--215
+ [][] []\OT1/cmr/m/n/12 Comparison be-tween the com-puted steady data and the r
+e-con-structed 
+ []
+
+)
+\tf@lof=\write4
+\openout4 = `thesis.lof'.
+
+ [16] (./CHAP_INTRO/introduction.tex
+Chapter 1.
+(./CHAP_INTRO/unsflow.tex [1
+
+] [2]
+<CHAP_INTRO/FIGURE/campell.pdf, id=82, 597.23125pt x 845.1575pt>
+File: CHAP_INTRO/FIGURE/campell.pdf Graphic file (type pdf)
+<use CHAP_INTRO/FIGURE/campell.pdf>
+Package pdftex.def Info: CHAP_INTRO/FIGURE/campell.pdf  used on input line 91.
+(pdftex.def)             Requested size: 369.88582pt x 523.43771pt.
+ [3] [4] [5]
+<CHAP_INTRO/FIGURE/fan_map.pdf, id=94, 597.23125pt x 845.1575pt>
+File: CHAP_INTRO/FIGURE/fan_map.pdf Graphic file (type pdf)
+<use CHAP_INTRO/FIGURE/fan_map.pdf>
+Package pdftex.def Info: CHAP_INTRO/FIGURE/fan_map.pdf  used on input line 239.
+
+(pdftex.def)             Requested size: 369.88582pt x 523.43771pt.
+ [6] [7] [8]
+<CHAP_INTRO/FIGURE/turbine_stage.pdf, id=105, 597.23125pt x 845.1575pt>
+File: CHAP_INTRO/FIGURE/turbine_stage.pdf Graphic file (type pdf)
+<use CHAP_INTRO/FIGURE/turbine_stage.pdf>
+Package pdftex.def Info: CHAP_INTRO/FIGURE/turbine_stage.pdf  used on input lin
+e 409.
+(pdftex.def)             Requested size: 170.71652pt x 241.58167pt.
+)
+(./CHAP_INTRO/prediction.tex [9] [10] [11] [12]
+<CHAP_INTRO/FIGURE/threerows.pdf, id=120, 614.295pt x 794.97pt>
+File: CHAP_INTRO/FIGURE/threerows.pdf Graphic file (type pdf)
+<use CHAP_INTRO/FIGURE/threerows.pdf>
+Package pdftex.def Info: CHAP_INTRO/FIGURE/threerows.pdf  used on input line 21
+0.
+(pdftex.def)             Requested size: 341.43306pt x 441.85648pt.
+) (./CHAP_INTRO/cfd.tex [13]
+Overfull \hbox (5.6809pt too wide) in paragraph at lines 35--37
+[]\OT1/cmr/m/n/12 ii) The dis-creti-sa-tion of the com-pu-ta-tional do-main wit
+h struc-tured, block-structured,
+ []
+
+[14] [15] [16] [17] [18] [19] [20] [21]) (./CHAP_INTRO/objective.tex [22]
+[23{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [24]
+Overfull \hbox (3.06981pt too wide) in paragraph at lines 157--164
+[]\OT1/cmr/m/n/12 Calculation of the aero-dy-namic forc-ing func-tions from the
+ sta-tor out-let steady-
+ []
+
+)) (./CHAP_MESH/mesh.tex [25] [26 <./CHAP_INTRO/FIGURE/campell.pdf>] [27 <./CHA
+P_INTRO/FIGURE/fan_map.pdf>] [28 <./CHAP_INTRO/FIGURE/turbine_stage.pdf>]
+[29 <./CHAP_INTRO/FIGURE/threerows.pdf>]
+Chapter 2.
+[30
+
+]
+<CHAP_MESH/FIGURE/Hmesh.pdf, id=195, 597.23125pt x 845.1575pt>
+File: CHAP_MESH/FIGURE/Hmesh.pdf Graphic file (type pdf)
+<use CHAP_MESH/FIGURE/Hmesh.pdf>
+Package pdftex.def Info: CHAP_MESH/FIGURE/Hmesh.pdf  used on input line 77.
+(pdftex.def)             Requested size: 142.26378pt x 201.3202pt.
+ [31 <./CHAP_MESH/FIGURE/Hmesh.pdf>]
+<CHAP_MESH/FIGURE/unstruct.pdf, id=201, 597.23125pt x 845.1575pt>
+File: CHAP_MESH/FIGURE/unstruct.pdf Graphic file (type pdf)
+<use CHAP_MESH/FIGURE/unstruct.pdf>
+Package pdftex.def Info: CHAP_MESH/FIGURE/unstruct.pdf  used on input line 123.
+
+(pdftex.def)             Requested size: 85.35826pt x 120.78438pt.
+ [32 <./CHAP_MESH/FIGURE/unstruct.pdf>] [33]
+<CHAP_MESH/FIGURE/surf1.pdf, id=210, 597.23125pt x 845.1575pt>
+File: CHAP_MESH/FIGURE/surf1.pdf Graphic file (type pdf)
+<use CHAP_MESH/FIGURE/surf1.pdf>
+Package pdftex.def Info: CHAP_MESH/FIGURE/surf1.pdf  used on input line 222.
+(pdftex.def)             Requested size: 199.16928pt x 281.84314pt.
+<CHAP_MESH/FIGURE/surf2.pdf, id=211, 597.23125pt x 845.1575pt>
+File: CHAP_MESH/FIGURE/surf2.pdf Graphic file (type pdf)
+<use CHAP_MESH/FIGURE/surf2.pdf>
+Package pdftex.def Info: CHAP_MESH/FIGURE/surf2.pdf  used on input line 225.
+(pdftex.def)             Requested size: 199.16928pt x 281.84314pt.
+<CHAP_MESH/FIGURE/surf3.pdf, id=212, 597.23125pt x 845.1575pt>
+File: CHAP_MESH/FIGURE/surf3.pdf Graphic file (type pdf)
+<use CHAP_MESH/FIGURE/surf3.pdf>
+Package pdftex.def Info: CHAP_MESH/FIGURE/surf3.pdf  used on input line 229.
+(pdftex.def)             Requested size: 199.16928pt x 281.84314pt.
+<CHAP_MESH/FIGURE/surf4.pdf, id=213, 597.23125pt x 845.1575pt>
+File: CHAP_MESH/FIGURE/surf4.pdf Graphic file (type pdf)
+<use CHAP_MESH/FIGURE/surf4.pdf>
+Package pdftex.def Info: CHAP_MESH/FIGURE/surf4.pdf  used on input line 232.
+(pdftex.def)             Requested size: 199.16928pt x 281.84314pt.
+
+Overfull \hbox (0.98767pt too wide) in paragraph at lines 219--234
+ [] 
+ []
+
+<CHAP_MESH/FIGURE/bla1.pdf, id=214, 597.23125pt x 845.1575pt>
+File: CHAP_MESH/FIGURE/bla1.pdf Graphic file (type pdf)
+<use CHAP_MESH/FIGURE/bla1.pdf>
+Package pdftex.def Info: CHAP_MESH/FIGURE/bla1.pdf  used on input line 267.
+(pdftex.def)             Requested size: 142.26378pt x 201.3202pt.
+<CHAP_MESH/FIGURE/bla2.pdf, id=215, 597.23125pt x 845.1575pt>
+File: CHAP_MESH/FIGURE/bla2.pdf Graphic file (type pdf)
+<use CHAP_MESH/FIGURE/bla2.pdf>
+Package pdftex.def Info: CHAP_MESH/FIGURE/bla2.pdf  used on input line 270.
+(pdftex.def)             Requested size: 142.26378pt x 201.3202pt.
+<CHAP_MESH/FIGURE/bla3.pdf, id=216, 597.23125pt x 845.1575pt>
+File: CHAP_MESH/FIGURE/bla3.pdf Graphic file (type pdf)
+<use CHAP_MESH/FIGURE/bla3.pdf>
+Package pdftex.def Info: CHAP_MESH/FIGURE/bla3.pdf  used on input line 274.
+(pdftex.def)             Requested size: 142.26378pt x 201.3202pt.
+<CHAP_MESH/FIGURE/bla4.pdf, id=217, 597.23125pt x 845.1575pt>
+File: CHAP_MESH/FIGURE/bla4.pdf Graphic file (type pdf)
+<use CHAP_MESH/FIGURE/bla4.pdf>
+Package pdftex.def Info: CHAP_MESH/FIGURE/bla4.pdf  used on input line 277.
+(pdftex.def)             Requested size: 142.26378pt x 201.3202pt.
+[34] [35 <./CHAP_MESH/FIGURE/surf1.pdf> <./CHAP_MESH/FIGURE/surf2.pdf> <./CHAP_
+MESH/FIGURE/surf3.pdf> <./CHAP_MESH/FIGURE/surf4.pdf>] [36 <./CHAP_MESH/FIGURE/
+bla1.pdf> <./CHAP_MESH/FIGURE/bla2.pdf> <./CHAP_MESH/FIGURE/bla3.pdf> <./CHAP_M
+ESH/FIGURE/bla4.pdf>]
+<CHAP_MESH/FIGURE/mesh2d_struct.pdf, id=276, 597.23125pt x 845.1575pt>
+File: CHAP_MESH/FIGURE/mesh2d_struct.pdf Graphic file (type pdf)
+<use CHAP_MESH/FIGURE/mesh2d_struct.pdf>
+Package pdftex.def Info: CHAP_MESH/FIGURE/mesh2d_struct.pdf  used on input line
+ 346.
+(pdftex.def)             Requested size: 199.16928pt x 281.84314pt.
+<CHAP_MESH/FIGURE/mesh2d_unstruct.pdf, id=277, 597.23125pt x 845.1575pt>
+File: CHAP_MESH/FIGURE/mesh2d_unstruct.pdf Graphic file (type pdf)
+<use CHAP_MESH/FIGURE/mesh2d_unstruct.pdf>
+Package pdftex.def Info: CHAP_MESH/FIGURE/mesh2d_unstruct.pdf  used on input li
+ne 348.
+(pdftex.def)             Requested size: 199.16928pt x 281.84314pt.
+ [37]
+<CHAP_MESH/FIGURE/mapping.pdf, id=281, 597.23125pt x 845.1575pt>
+File: CHAP_MESH/FIGURE/mapping.pdf Graphic file (type pdf)
+<use CHAP_MESH/FIGURE/mapping.pdf>
+Package pdftex.def Info: CHAP_MESH/FIGURE/mapping.pdf  used on input line 407.
+(pdftex.def)             Requested size: 341.43306pt x 483.17624pt.
+ [38 <./CHAP_MESH/FIGURE/mesh2d_struct.pdf> <./CHAP_MESH/FIGURE/mesh2d_unstruct
+.pdf>]
+<CHAP_MESH/FIGURE/mesh2d_1_struct.pdf, id=289, 597.23125pt x 845.1575pt>
+File: CHAP_MESH/FIGURE/mesh2d_1_struct.pdf Graphic file (type pdf)
+<use CHAP_MESH/FIGURE/mesh2d_1_struct.pdf>
+Package pdftex.def Info: CHAP_MESH/FIGURE/mesh2d_1_struct.pdf  used on input li
+ne 434.
+(pdftex.def)             Requested size: 128.0374pt x 181.18947pt.
+<CHAP_MESH/FIGURE/mesh2d_1_unstruct.pdf, id=290, 597.23125pt x 845.1575pt>
+File: CHAP_MESH/FIGURE/mesh2d_1_unstruct.pdf Graphic file (type pdf)
+<use CHAP_MESH/FIGURE/mesh2d_1_unstruct.pdf>
+Package pdftex.def Info: CHAP_MESH/FIGURE/mesh2d_1_unstruct.pdf  used on input 
+line 434.
+(pdftex.def)             Requested size: 128.0374pt x 181.18947pt.
+<CHAP_MESH/FIGURE/mesh2d_2_struct.pdf, id=291, 597.23125pt x 845.1575pt>
+File: CHAP_MESH/FIGURE/mesh2d_2_struct.pdf Graphic file (type pdf)
+<use CHAP_MESH/FIGURE/mesh2d_2_struct.pdf>
+Package pdftex.def Info: CHAP_MESH/FIGURE/mesh2d_2_struct.pdf  used on input li
+ne 441.
+(pdftex.def)             Requested size: 128.0374pt x 181.18947pt.
+<CHAP_MESH/FIGURE/mesh2d_2_unstruct.pdf, id=292, 597.23125pt x 845.1575pt>
+File: CHAP_MESH/FIGURE/mesh2d_2_unstruct.pdf Graphic file (type pdf)
+<use CHAP_MESH/FIGURE/mesh2d_2_unstruct.pdf>
+Package pdftex.def Info: CHAP_MESH/FIGURE/mesh2d_2_unstruct.pdf  used on input 
+line 441.
+(pdftex.def)             Requested size: 128.0374pt x 181.18947pt.
+<CHAP_MESH/FIGURE/mesh2d_3_struct.pdf, id=293, 597.23125pt x 845.1575pt>
+File: CHAP_MESH/FIGURE/mesh2d_3_struct.pdf Graphic file (type pdf)
+<use CHAP_MESH/FIGURE/mesh2d_3_struct.pdf>
+Package pdftex.def Info: CHAP_MESH/FIGURE/mesh2d_3_struct.pdf  used on input li
+ne 448.
+(pdftex.def)             Requested size: 128.0374pt x 181.18947pt.
+<CHAP_MESH/FIGURE/mesh2d_3_unstruct.pdf, id=294, 597.23125pt x 845.1575pt>
+File: CHAP_MESH/FIGURE/mesh2d_3_unstruct.pdf Graphic file (type pdf)
+<use CHAP_MESH/FIGURE/mesh2d_3_unstruct.pdf>
+Package pdftex.def Info: CHAP_MESH/FIGURE/mesh2d_3_unstruct.pdf  used on input 
+line 448.
+(pdftex.def)             Requested size: 128.0374pt x 181.18947pt.
+<CHAP_MESH/FIGURE/radial.pdf, id=295, 597.23125pt x 845.1575pt>
+File: CHAP_MESH/FIGURE/radial.pdf Graphic file (type pdf)
+<use CHAP_MESH/FIGURE/radial.pdf>
+Package pdftex.def Info: CHAP_MESH/FIGURE/radial.pdf  used on input line 482.
+(pdftex.def)             Requested size: 398.33858pt x 563.69917pt.
+<CHAP_MESH/FIGURE/snab.pdf, id=296, 597.23125pt x 845.1575pt>
+File: CHAP_MESH/FIGURE/snab.pdf Graphic file (type pdf)
+<use CHAP_MESH/FIGURE/snab.pdf>
+Package pdftex.def Info: CHAP_MESH/FIGURE/snab.pdf  used on input line 500.
+(pdftex.def)             Requested size: 341.43306pt x 483.17624pt.
+) (./CHAP_NONLIN/nonlinear.tex [39] [40]
+[41 <./CHAP_MESH/FIGURE/mapping.pdf>] [42 <./CHAP_MESH/FIGURE/mesh2d_1_struct.p
+df> <./CHAP_MESH/FIGURE/mesh2d_1_unstruct.pdf> <./CHAP_MESH/FIGURE/mesh2d_2_str
+uct.pdf> <./CHAP_MESH/FIGURE/mesh2d_2_unstruct.pdf> <./CHAP_MESH/FIGURE/mesh2d_
+3_struct.pdf> <./CHAP_MESH/FIGURE/mesh2d_3_unstruct.pdf>] [43 <./CHAP_MESH/FIGU
+RE/radial.pdf>] [44 <./CHAP_MESH/FIGURE/snab.pdf>]
+Chapter 3.
+(./CHAP_NONLIN/intro.tex [45
+
+] [46]) [47] (./CHAP_NONLIN/navsto.tex
+<CHAP_NONLIN/FIGURE/axis.pdf, id=347, 597.23125pt x 845.1575pt>
+File: CHAP_NONLIN/FIGURE/axis.pdf Graphic file (type pdf)
+<use CHAP_NONLIN/FIGURE/axis.pdf>
+Package pdftex.def Info: CHAP_NONLIN/FIGURE/axis.pdf  used on input line 28.
+(pdftex.def)             Requested size: 170.71652pt x 241.58167pt.
+ [48]
+[49 <./CHAP_NONLIN/FIGURE/axis.pdf>] [50]) (./CHAP_NONLIN/bcond.tex [51]
+[52]) (./CHAP_NONLIN/space.tex
+Overfull \hbox (0.61438pt too wide) in paragraph at lines 8--11
+\OT1/cmr/m/n/12 The de-vel-op-ment of a FV edge-based data struc-ture for un-st
+ruc-tured mixed-element
+ []
+
+<CHAP_NONLIN/FIGURE/mixme.pdf, id=372, 597.23125pt x 845.1575pt>
+File: CHAP_NONLIN/FIGURE/mixme.pdf Graphic file (type pdf)
+<use CHAP_NONLIN/FIGURE/mixme.pdf>
+Package pdftex.def Info: CHAP_NONLIN/FIGURE/mixme.pdf  used on input line 14.
+(pdftex.def)             Requested size: 227.62204pt x 322.1175pt.
+[53] [54 <./CHAP_NONLIN/FIGURE/mixme.pdf>] [55]
+<CHAP_NONLIN/FIGURE/fe_quad_stencil.pdf, id=393, 597.23125pt x 845.1575pt>
+File: CHAP_NONLIN/FIGURE/fe_quad_stencil.pdf Graphic file (type pdf)
+<use CHAP_NONLIN/FIGURE/fe_quad_stencil.pdf>
+Package pdftex.def Info: CHAP_NONLIN/FIGURE/fe_quad_stencil.pdf  used on input 
+line 180.
+(pdftex.def)             Requested size: 170.71652pt x 241.58167pt.
+<CHAP_NONLIN/FIGURE/fv_quad_stencil.pdf, id=394, 597.23125pt x 845.1575pt>
+File: CHAP_NONLIN/FIGURE/fv_quad_stencil.pdf Graphic file (type pdf)
+<use CHAP_NONLIN/FIGURE/fv_quad_stencil.pdf>
+Package pdftex.def Info: CHAP_NONLIN/FIGURE/fv_quad_stencil.pdf  used on input 
+line 183.
+(pdftex.def)             Requested size: 170.71652pt x 241.58167pt.
+ [56 <./CHAP_NONLIN/FIGURE/fe_quad_stencil.pdf> <./CHAP_NONLIN/FIGURE/fv_quad_s
+tencil.pdf>] [57] [58]
+<CHAP_NONLIN/FIGURE/laplacian.pdf, id=408, 597.23125pt x 845.1575pt>
+File: CHAP_NONLIN/FIGURE/laplacian.pdf Graphic file (type pdf)
+<use CHAP_NONLIN/FIGURE/laplacian.pdf>
+Package pdftex.def Info: CHAP_NONLIN/FIGURE/laplacian.pdf  used on input line 3
+82.
+(pdftex.def)             Requested size: 170.71652pt x 241.58167pt.
+)
+(./CHAP_NONLIN/time.tex
+Overfull \hbox (2.76982pt too wide) in paragraph at lines 370--10
+\OT1/cmr/m/n/12 As for (3.23[]), the Lapla-cian node-pair co-ef-fi-cient can be
+ used for tri-an-gle/tetrahedral
+ []
+
+[59] [60 <./CHAP_NONLIN/FIGURE/laplacian.pdf>] [61]) [62]
+(./CHAP_NONLIN/vki.tex
+<CHAP_NONLIN/FIGURE/vki_mesh_1.pdf, id=426, 597.23125pt x 845.1575pt>
+File: CHAP_NONLIN/FIGURE/vki_mesh_1.pdf Graphic file (type pdf)
+<use CHAP_NONLIN/FIGURE/vki_mesh_1.pdf>
+Package pdftex.def Info: CHAP_NONLIN/FIGURE/vki_mesh_1.pdf  used on input line 
+21.
+(pdftex.def)             Requested size: 312.9803pt x 442.90189pt.
+ [63]
+<CHAP_NONLIN/FIGURE/vki_mesh2.pdf, id=430, 597.23125pt x 845.1575pt>
+File: CHAP_NONLIN/FIGURE/vki_mesh2.pdf Graphic file (type pdf)
+<use CHAP_NONLIN/FIGURE/vki_mesh2.pdf>
+Package pdftex.def Info: CHAP_NONLIN/FIGURE/vki_mesh2.pdf  used on input line 4
+0.
+(pdftex.def)             Requested size: 128.0374pt x 181.18947pt.
+<CHAP_NONLIN/FIGURE/vki_mesh3.pdf, id=431, 597.23125pt x 845.1575pt>
+File: CHAP_NONLIN/FIGURE/vki_mesh3.pdf Graphic file (type pdf)
+<use CHAP_NONLIN/FIGURE/vki_mesh3.pdf>
+Package pdftex.def Info: CHAP_NONLIN/FIGURE/vki_mesh3.pdf  used on input line 4
+3.
+(pdftex.def)             Requested size: 128.0374pt x 181.18947pt.
+<CHAP_NONLIN/FIGURE/vki_mesh4.pdf, id=432, 597.23125pt x 845.1575pt>
+File: CHAP_NONLIN/FIGURE/vki_mesh4.pdf Graphic file (type pdf)
+<use CHAP_NONLIN/FIGURE/vki_mesh4.pdf>
+Package pdftex.def Info: CHAP_NONLIN/FIGURE/vki_mesh4.pdf  used on input line 4
+6.
+(pdftex.def)             Requested size: 128.0374pt x 181.18947pt.
+<CHAP_NONLIN/FIGURE/vki_blade.pdf, id=433, 597.23125pt x 845.1575pt>
+File: CHAP_NONLIN/FIGURE/vki_blade.pdf Graphic file (type pdf)
+<use CHAP_NONLIN/FIGURE/vki_blade.pdf>
+Package pdftex.def Info: CHAP_NONLIN/FIGURE/vki_blade.pdf  used on input line 6
+1.
+(pdftex.def)             Requested size: 369.88582pt x 523.43771pt.
+<CHAP_NONLIN/FIGURE/vki_mach.pdf, id=434, 597.23125pt x 845.1575pt>
+File: CHAP_NONLIN/FIGURE/vki_mach.pdf Graphic file (type pdf)
+<use CHAP_NONLIN/FIGURE/vki_mach.pdf>
+Package pdftex.def Info: CHAP_NONLIN/FIGURE/vki_mach.pdf  used on input line 73
+.
+(pdftex.def)             Requested size: 199.16928pt x 281.84314pt.
+<CHAP_NONLIN/FIGURE/vki_traces.pdf, id=435, 597.23125pt x 845.1575pt>
+File: CHAP_NONLIN/FIGURE/vki_traces.pdf Graphic file (type pdf)
+<use CHAP_NONLIN/FIGURE/vki_traces.pdf>
+Package pdftex.def Info: CHAP_NONLIN/FIGURE/vki_traces.pdf  used on input line 
+76.
+(pdftex.def)             Requested size: 199.16928pt x 281.84314pt.
+
+Overfull \hbox (8.0378pt too wide) in paragraph at lines 71--78
+ [] 
+ []
+
+[64 <./CHAP_NONLIN/FIGURE/vki_mesh_1.pdf>]
+<CHAP_NONLIN/FIGURE/vki_beta2.pdf, id=441, 597.23125pt x 845.1575pt>
+File: CHAP_NONLIN/FIGURE/vki_beta2.pdf Graphic file (type pdf)
+<use CHAP_NONLIN/FIGURE/vki_beta2.pdf>
+Package pdftex.def Info: CHAP_NONLIN/FIGURE/vki_beta2.pdf  used on input line 1
+07.
+(pdftex.def)             Requested size: 227.62204pt x 322.1175pt.
+<CHAP_NONLIN/FIGURE/vki_mach1.pdf, id=442, 597.23125pt x 845.1575pt>
+File: CHAP_NONLIN/FIGURE/vki_mach1.pdf Graphic file (type pdf)
+<use CHAP_NONLIN/FIGURE/vki_mach1.pdf>
+Package pdftex.def Info: CHAP_NONLIN/FIGURE/vki_mach1.pdf  used on input line 1
+10.
+(pdftex.def)             Requested size: 227.62204pt x 322.1175pt.
+<CHAP_NONLIN/FIGURE/vki_loss.pdf, id=443, 597.23125pt x 845.1575pt>
+File: CHAP_NONLIN/FIGURE/vki_loss.pdf Graphic file (type pdf)
+<use CHAP_NONLIN/FIGURE/vki_loss.pdf>
+Package pdftex.def Info: CHAP_NONLIN/FIGURE/vki_loss.pdf  used on input line 11
+3.
+(pdftex.def)             Requested size: 227.62204pt x 322.1175pt.
+
+
+LaTeX Warning: Float too large for page by 346.08136pt on input line 119.
+
+<CHAP_NONLIN/FIGURE/vki_res.pdf, id=444, 597.23125pt x 845.1575pt>
+File: CHAP_NONLIN/FIGURE/vki_res.pdf Graphic file (type pdf)
+<use CHAP_NONLIN/FIGURE/vki_res.pdf>
+Package pdftex.def Info: CHAP_NONLIN/FIGURE/vki_res.pdf  used on input line 137
+.
+(pdftex.def)             Requested size: 369.88582pt x 523.43771pt.
+) (./CHAP_NONLIN/stokes.tex [65 <./CHAP_NONLIN/FIGURE/vki_mesh2.pdf> <./CHAP_NO
+NLIN/FIGURE/vki_mesh3.pdf> <./CHAP_NONLIN/FIGURE/vki_mesh4.pdf>] [66 <./CHAP_NO
+NLIN/FIGURE/vki_blade.pdf>]
+<CHAP_NONLIN/FIGURE/flat_sol.pdf, id=463, 597.23125pt x 845.1575pt>
+File: CHAP_NONLIN/FIGURE/flat_sol.pdf Graphic file (type pdf)
+<use CHAP_NONLIN/FIGURE/flat_sol.pdf>
+Package pdftex.def Info: CHAP_NONLIN/FIGURE/flat_sol.pdf  used on input line 38
+.
+(pdftex.def)             Requested size: 312.9803pt x 442.90189pt.
+<CHAP_NONLIN/FIGURE/flat_res.pdf, id=464, 597.23125pt x 845.1575pt>
+File: CHAP_NONLIN/FIGURE/flat_res.pdf Graphic file (type pdf)
+<use CHAP_NONLIN/FIGURE/flat_res.pdf>
+Package pdftex.def Info: CHAP_NONLIN/FIGURE/flat_res.pdf  used on input line 41
+.
+(pdftex.def)             Requested size: 312.9803pt x 442.90189pt.
+
+
+LaTeX Warning: Float too large for page by 292.14487pt on input line 48.
+
+[67 <./CHAP_NONLIN/FIGURE/vki_mach.pdf> <./CHAP_NONLIN/FIGURE/vki_traces.pdf>]
+[68 <./CHAP_NONLIN/FIGURE/vki_beta2.pdf> <./CHAP_NONLIN/FIGURE/vki_mach1.pdf> <
+./CHAP_NONLIN/FIGURE/vki_loss.pdf>] [69 <./CHAP_NONLIN/FIGURE/vki_res.pdf>])
+(./CHAP_NONLIN/cylind.tex
+<CHAP_NONLIN/FIGURE/cil_me1.pdf, id=506, 597.23125pt x 845.1575pt>
+File: CHAP_NONLIN/FIGURE/cil_me1.pdf Graphic file (type pdf)
+<use CHAP_NONLIN/FIGURE/cil_me1.pdf>
+Package pdftex.def Info: CHAP_NONLIN/FIGURE/cil_me1.pdf  used on input line 11.
+
+(pdftex.def)             Requested size: 120.63792pt x 170.71652pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+[]\OT1/cmr/m/n/10 (a) Com-pu-ta-tional grid:
+ []
+
+<CHAP_NONLIN/FIGURE/cil_me0.pdf, id=507, 597.23125pt x 845.1575pt>
+File: CHAP_NONLIN/FIGURE/cil_me0.pdf Graphic file (type pdf)
+<use CHAP_NONLIN/FIGURE/cil_me0.pdf>
+Package pdftex.def Info: CHAP_NONLIN/FIGURE/cil_me0.pdf  used on input line 14.
+
+(pdftex.def)             Requested size: 120.63792pt x 170.71652pt.
+[70] [71 <./CHAP_NONLIN/FIGURE/flat_sol.pdf> <./CHAP_NONLIN/FIGURE/flat_res.pdf
+>]
+<CHAP_NONLIN/FIGURE/cil_me2.pdf, id=529, 597.23125pt x 845.1575pt>
+File: CHAP_NONLIN/FIGURE/cil_me2.pdf Graphic file (type pdf)
+<use CHAP_NONLIN/FIGURE/cil_me2.pdf>
+Package pdftex.def Info: CHAP_NONLIN/FIGURE/cil_me2.pdf  used on input line 62.
+
+(pdftex.def)             Requested size: 128.0374pt x 181.18947pt.
+<CHAP_NONLIN/FIGURE/cil_me3.pdf, id=530, 597.23125pt x 845.1575pt>
+File: CHAP_NONLIN/FIGURE/cil_me3.pdf Graphic file (type pdf)
+<use CHAP_NONLIN/FIGURE/cil_me3.pdf>
+Package pdftex.def Info: CHAP_NONLIN/FIGURE/cil_me3.pdf  used on input line 65.
+
+(pdftex.def)             Requested size: 128.0374pt x 181.18947pt.
+<CHAP_NONLIN/FIGURE/cil_me4.pdf, id=531, 597.23125pt x 845.1575pt>
+File: CHAP_NONLIN/FIGURE/cil_me4.pdf Graphic file (type pdf)
+<use CHAP_NONLIN/FIGURE/cil_me4.pdf>
+Package pdftex.def Info: CHAP_NONLIN/FIGURE/cil_me4.pdf  used on input line 68.
+
+(pdftex.def)             Requested size: 128.0374pt x 181.18947pt.
+<CHAP_NONLIN/FIGURE/stroud.pdf, id=532, 597.23125pt x 845.1575pt>
+File: CHAP_NONLIN/FIGURE/stroud.pdf Graphic file (type pdf)
+<use CHAP_NONLIN/FIGURE/stroud.pdf>
+Package pdftex.def Info: CHAP_NONLIN/FIGURE/stroud.pdf  used on input line 95.
+(pdftex.def)             Requested size: 312.9803pt x 442.90189pt.
+<CHAP_NONLIN/FIGURE/prehis.pdf, id=533, 597.23125pt x 845.1575pt>
+File: CHAP_NONLIN/FIGURE/prehis.pdf Graphic file (type pdf)
+<use CHAP_NONLIN/FIGURE/prehis.pdf>
+Package pdftex.def Info: CHAP_NONLIN/FIGURE/prehis.pdf  used on input line 98.
+(pdftex.def)             Requested size: 312.9803pt x 442.90189pt.
+
+
+LaTeX Warning: Float too large for page by 283.21397pt on input line 104.
+
+<CHAP_NONLIN/FIGURE/cil2.pdf, id=534, 597.23125pt x 845.1575pt>
+File: CHAP_NONLIN/FIGURE/cil2.pdf Graphic file (type pdf)
+<use CHAP_NONLIN/FIGURE/cil2.pdf>
+Package pdftex.def Info: CHAP_NONLIN/FIGURE/cil2.pdf  used on input line 131.
+(pdftex.def)             Requested size: 128.0374pt x 181.18947pt.
+<CHAP_NONLIN/FIGURE/cil3.pdf, id=535, 597.23125pt x 845.1575pt>
+File: CHAP_NONLIN/FIGURE/cil3.pdf Graphic file (type pdf)
+<use CHAP_NONLIN/FIGURE/cil3.pdf>
+Package pdftex.def Info: CHAP_NONLIN/FIGURE/cil3.pdf  used on input line 131.
+(pdftex.def)             Requested size: 128.0374pt x 181.18947pt.
+<CHAP_NONLIN/FIGURE/cil4.pdf, id=536, 597.23125pt x 845.1575pt>
+File: CHAP_NONLIN/FIGURE/cil4.pdf Graphic file (type pdf)
+<use CHAP_NONLIN/FIGURE/cil4.pdf>
+Package pdftex.def Info: CHAP_NONLIN/FIGURE/cil4.pdf  used on input line 131.
+(pdftex.def)             Requested size: 128.0374pt x 181.18947pt.
+<CHAP_NONLIN/FIGURE/cil5.pdf, id=537, 597.23125pt x 845.1575pt>
+File: CHAP_NONLIN/FIGURE/cil5.pdf Graphic file (type pdf)
+<use CHAP_NONLIN/FIGURE/cil5.pdf>
+Package pdftex.def Info: CHAP_NONLIN/FIGURE/cil5.pdf  used on input line 131.
+(pdftex.def)             Requested size: 128.0374pt x 181.18947pt.
+<CHAP_NONLIN/FIGURE/cil6.pdf, id=538, 597.23125pt x 845.1575pt>
+File: CHAP_NONLIN/FIGURE/cil6.pdf Graphic file (type pdf)
+<use CHAP_NONLIN/FIGURE/cil6.pdf>
+Package pdftex.def Info: CHAP_NONLIN/FIGURE/cil6.pdf  used on input line 131.
+(pdftex.def)             Requested size: 128.0374pt x 181.18947pt.
+<CHAP_NONLIN/FIGURE/cil1.pdf, id=539, 597.23125pt x 845.1575pt>
+File: CHAP_NONLIN/FIGURE/cil1.pdf Graphic file (type pdf)
+<use CHAP_NONLIN/FIGURE/cil1.pdf>
+Package pdftex.def Info: CHAP_NONLIN/FIGURE/cil1.pdf  used on input line 131.
+(pdftex.def)             Requested size: 128.0374pt x 181.18947pt.
+<CHAP_NONLIN/FIGURE/cim2.pdf, id=540, 597.23125pt x 845.1575pt>
+File: CHAP_NONLIN/FIGURE/cim2.pdf Graphic file (type pdf)
+<use CHAP_NONLIN/FIGURE/cim2.pdf>
+Package pdftex.def Info: CHAP_NONLIN/FIGURE/cim2.pdf  used on input line 150.
+(pdftex.def)             Requested size: 128.0374pt x 181.18947pt.
+<CHAP_NONLIN/FIGURE/cim3.pdf, id=541, 597.23125pt x 845.1575pt>
+File: CHAP_NONLIN/FIGURE/cim3.pdf Graphic file (type pdf)
+<use CHAP_NONLIN/FIGURE/cim3.pdf>
+Package pdftex.def Info: CHAP_NONLIN/FIGURE/cim3.pdf  used on input line 150.
+(pdftex.def)             Requested size: 128.0374pt x 181.18947pt.
+<CHAP_NONLIN/FIGURE/cim4.pdf, id=542, 597.23125pt x 845.1575pt>
+File: CHAP_NONLIN/FIGURE/cim4.pdf Graphic file (type pdf)
+<use CHAP_NONLIN/FIGURE/cim4.pdf>
+Package pdftex.def Info: CHAP_NONLIN/FIGURE/cim4.pdf  used on input line 150.
+(pdftex.def)             Requested size: 128.0374pt x 181.18947pt.
+<CHAP_NONLIN/FIGURE/cim5.pdf, id=543, 597.23125pt x 845.1575pt>
+File: CHAP_NONLIN/FIGURE/cim5.pdf Graphic file (type pdf)
+<use CHAP_NONLIN/FIGURE/cim5.pdf>
+Package pdftex.def Info: CHAP_NONLIN/FIGURE/cim5.pdf  used on input line 150.
+(pdftex.def)             Requested size: 128.0374pt x 181.18947pt.
+<CHAP_NONLIN/FIGURE/cim6.pdf, id=544, 597.23125pt x 845.1575pt>
+File: CHAP_NONLIN/FIGURE/cim6.pdf Graphic file (type pdf)
+<use CHAP_NONLIN/FIGURE/cim6.pdf>
+Package pdftex.def Info: CHAP_NONLIN/FIGURE/cim6.pdf  used on input line 150.
+(pdftex.def)             Requested size: 128.0374pt x 181.18947pt.
+<CHAP_NONLIN/FIGURE/cim1.pdf, id=545, 597.23125pt x 845.1575pt>
+File: CHAP_NONLIN/FIGURE/cim1.pdf Graphic file (type pdf)
+<use CHAP_NONLIN/FIGURE/cim1.pdf>
+Package pdftex.def Info: CHAP_NONLIN/FIGURE/cim1.pdf  used on input line 150.
+(pdftex.def)             Requested size: 128.0374pt x 181.18947pt.
+
+Overfull \hbox (11.01147pt too wide) in paragraph at lines 113--152
+ [] 
+ []
+
+
+LaTeX Warning: Float too large for page by 219.80508pt on input line 156.
+
+[72 <./CHAP_NONLIN/FIGURE/cil_me1.pdf> <./CHAP_NONLIN/FIGURE/cil_me0.pdf>])
+(./CHAP_NONLIN/arc.tex
+<CHAP_NONLIN/FIGURE/arc1.pdf, id=556, 597.23125pt x 845.1575pt>
+File: CHAP_NONLIN/FIGURE/arc1.pdf Graphic file (type pdf)
+<use CHAP_NONLIN/FIGURE/arc1.pdf>
+Package pdftex.def Info: CHAP_NONLIN/FIGURE/arc1.pdf  used on input line 30.
+(pdftex.def)             Requested size: 128.0374pt x 181.18947pt.
+<CHAP_NONLIN/FIGURE/arc2.pdf, id=557, 597.23125pt x 845.1575pt>
+File: CHAP_NONLIN/FIGURE/arc2.pdf Graphic file (type pdf)
+<use CHAP_NONLIN/FIGURE/arc2.pdf>
+Package pdftex.def Info: CHAP_NONLIN/FIGURE/arc2.pdf  used on input line 33.
+(pdftex.def)             Requested size: 128.0374pt x 181.18947pt.
+<CHAP_NONLIN/FIGURE/arc3.pdf, id=558, 597.23125pt x 845.1575pt>
+File: CHAP_NONLIN/FIGURE/arc3.pdf Graphic file (type pdf)
+<use CHAP_NONLIN/FIGURE/arc3.pdf>
+Package pdftex.def Info: CHAP_NONLIN/FIGURE/arc3.pdf  used on input line 36.
+(pdftex.def)             Requested size: 128.0374pt x 181.18947pt.
+<CHAP_NONLIN/FIGURE/arc4.pdf, id=559, 597.23125pt x 845.1575pt>
+File: CHAP_NONLIN/FIGURE/arc4.pdf Graphic file (type pdf)
+<use CHAP_NONLIN/FIGURE/arc4.pdf>
+Package pdftex.def Info: CHAP_NONLIN/FIGURE/arc4.pdf  used on input line 39.
+(pdftex.def)             Requested size: 128.0374pt x 181.18947pt.
+<CHAP_NONLIN/FIGURE/arc5.pdf, id=560, 597.23125pt x 845.1575pt>
+File: CHAP_NONLIN/FIGURE/arc5.pdf Graphic file (type pdf)
+<use CHAP_NONLIN/FIGURE/arc5.pdf>
+Package pdftex.def Info: CHAP_NONLIN/FIGURE/arc5.pdf  used on input line 42.
+(pdftex.def)             Requested size: 128.0374pt x 181.18947pt.
+<CHAP_NONLIN/FIGURE/arc6.pdf, id=561, 597.23125pt x 845.1575pt>
+File: CHAP_NONLIN/FIGURE/arc6.pdf Graphic file (type pdf)
+<use CHAP_NONLIN/FIGURE/arc6.pdf>
+Package pdftex.def Info: CHAP_NONLIN/FIGURE/arc6.pdf  used on input line 45.
+(pdftex.def)             Requested size: 128.0374pt x 181.18947pt.
+<CHAP_NONLIN/FIGURE/arc7.pdf, id=562, 597.23125pt x 845.1575pt>
+File: CHAP_NONLIN/FIGURE/arc7.pdf Graphic file (type pdf)
+<use CHAP_NONLIN/FIGURE/arc7.pdf>
+Package pdftex.def Info: CHAP_NONLIN/FIGURE/arc7.pdf  used on input line 48.
+(pdftex.def)             Requested size: 128.0374pt x 181.18947pt.
+<CHAP_NONLIN/FIGURE/arc8.pdf, id=563, 597.23125pt x 845.1575pt>
+File: CHAP_NONLIN/FIGURE/arc8.pdf Graphic file (type pdf)
+<use CHAP_NONLIN/FIGURE/arc8.pdf>
+Package pdftex.def Info: CHAP_NONLIN/FIGURE/arc8.pdf  used on input line 51.
+(pdftex.def)             Requested size: 128.0374pt x 181.18947pt.
+<CHAP_NONLIN/FIGURE/arc9.pdf, id=564, 597.23125pt x 845.1575pt>
+File: CHAP_NONLIN/FIGURE/arc9.pdf Graphic file (type pdf)
+<use CHAP_NONLIN/FIGURE/arc9.pdf>
+Package pdftex.def Info: CHAP_NONLIN/FIGURE/arc9.pdf  used on input line 54.
+(pdftex.def)             Requested size: 128.0374pt x 181.18947pt.
+<CHAP_NONLIN/FIGURE/arc10.pdf, id=565, 597.23125pt x 845.1575pt>
+File: CHAP_NONLIN/FIGURE/arc10.pdf Graphic file (type pdf)
+<use CHAP_NONLIN/FIGURE/arc10.pdf>
+Package pdftex.def Info: CHAP_NONLIN/FIGURE/arc10.pdf  used on input line 57.
+(pdftex.def)             Requested size: 128.0374pt x 181.18947pt.
+<CHAP_NONLIN/FIGURE/arc11.pdf, id=566, 597.23125pt x 845.1575pt>
+File: CHAP_NONLIN/FIGURE/arc11.pdf Graphic file (type pdf)
+<use CHAP_NONLIN/FIGURE/arc11.pdf>
+Package pdftex.def Info: CHAP_NONLIN/FIGURE/arc11.pdf  used on input line 60.
+(pdftex.def)             Requested size: 128.0374pt x 181.18947pt.
+<CHAP_NONLIN/FIGURE/arc12.pdf, id=567, 597.23125pt x 845.1575pt>
+File: CHAP_NONLIN/FIGURE/arc12.pdf Graphic file (type pdf)
+<use CHAP_NONLIN/FIGURE/arc12.pdf>
+Package pdftex.def Info: CHAP_NONLIN/FIGURE/arc12.pdf  used on input line 63.
+(pdftex.def)             Requested size: 128.0374pt x 181.18947pt.
+
+Overfull \hbox (2.92809pt too wide) in paragraph at lines 28--65
+ [] 
+ []
+
+
+LaTeX Warning: Float too large for page by 134.15822pt on input line 70.
+
+[73 <./CHAP_NONLIN/FIGURE/cil_me2.pdf> <./CHAP_NONLIN/FIGURE/cil_me3.pdf> <./CH
+AP_NONLIN/FIGURE/cil_me4.pdf>] [74 <./CHAP_NONLIN/FIGURE/stroud.pdf> <./CHAP_NO
+NLIN/FIGURE/prehis.pdf>]
+<CHAP_NONLIN/FIGURE/arc_uns.pdf, id=591, 597.23125pt x 845.1575pt>
+File: CHAP_NONLIN/FIGURE/arc_uns.pdf Graphic file (type pdf)
+<use CHAP_NONLIN/FIGURE/arc_uns.pdf>
+Package pdftex.def Info: CHAP_NONLIN/FIGURE/arc_uns.pdf  used on input line 88.
+
+(pdftex.def)             Requested size: 180.9569pt x 256.0748pt.
+<CHAP_NONLIN/FIGURE/arc_per.pdf, id=592, 597.23125pt x 845.1575pt>
+File: CHAP_NONLIN/FIGURE/arc_per.pdf Graphic file (type pdf)
+<use CHAP_NONLIN/FIGURE/arc_per.pdf>
+Package pdftex.def Info: CHAP_NONLIN/FIGURE/arc_per.pdf  used on input line 91.
+
+(pdftex.def)             Requested size: 180.9569pt x 256.0748pt.
+) [75]) (./CHAP_LINEAR/linear.tex [76] [77 <./CHAP_NONLIN/FIGURE/cil2.pdf> <./C
+HAP_NONLIN/FIGURE/cil3.pdf> <./CHAP_NONLIN/FIGURE/cil4.pdf> <./CHAP_NONLIN/FIGU
+RE/cil5.pdf> <./CHAP_NONLIN/FIGURE/cil6.pdf> <./CHAP_NONLIN/FIGURE/cil1.pdf> <.
+/CHAP_NONLIN/FIGURE/cim2.pdf> <./CHAP_NONLIN/FIGURE/cim3.pdf> <./CHAP_NONLIN/FI
+GURE/cim4.pdf> <./CHAP_NONLIN/FIGURE/cim5.pdf> <./CHAP_NONLIN/FIGURE/cim6.pdf> 
+<./CHAP_NONLIN/FIGURE/cim1.pdf>] [78 <./CHAP_NONLIN/FIGURE/arc1.pdf> <./CHAP_NO
+NLIN/FIGURE/arc2.pdf> <./CHAP_NONLIN/FIGURE/arc3.pdf> <./CHAP_NONLIN/FIGURE/arc
+4.pdf> <./CHAP_NONLIN/FIGURE/arc5.pdf> <./CHAP_NONLIN/FIGURE/arc6.pdf> <./CHAP_
+NONLIN/FIGURE/arc7.pdf> <./CHAP_NONLIN/FIGURE/arc8.pdf> <./CHAP_NONLIN/FIGURE/a
+rc9.pdf> <./CHAP_NONLIN/FIGURE/arc10.pdf> <./CHAP_NONLIN/FIGURE/arc11.pdf> <./C
+HAP_NONLIN/FIGURE/arc12.pdf>] [79 <./CHAP_NONLIN/FIGURE/arc_uns.pdf> <./CHAP_NO
+NLIN/FIGURE/arc_per.pdf>]
+Chapter 4.
+[80
+
+] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90]
+(./CHAP_LINEAR/linsub.tex
+<CHAP_LINEAR/FIGURE/lins_geom.pdf, id=708, 597.23125pt x 845.1575pt>
+File: CHAP_LINEAR/FIGURE/lins_geom.pdf Graphic file (type pdf)
+<use CHAP_LINEAR/FIGURE/lins_geom.pdf>
+Package pdftex.def Info: CHAP_LINEAR/FIGURE/lins_geom.pdf  used on input line 1
+0.
+(pdftex.def)             Requested size: 199.16928pt x 281.84314pt.
+<CHAP_LINEAR/FIGURE/lins_mesh.pdf, id=709, 597.23125pt x 845.1575pt>
+File: CHAP_LINEAR/FIGURE/lins_mesh.pdf Graphic file (type pdf)
+<use CHAP_LINEAR/FIGURE/lins_mesh.pdf>
+Package pdftex.def Info: CHAP_LINEAR/FIGURE/lins_mesh.pdf  used on input line 1
+3.
+(pdftex.def)             Requested size: 199.16928pt x 281.84314pt.
+
+Overfull \hbox (9.07106pt too wide) in paragraph at lines 7--15
+ [] 
+ []
+
+<CHAP_LINEAR/FIGURE/lins_wake1.pdf, id=710, 597.23125pt x 845.1575pt>
+File: CHAP_LINEAR/FIGURE/lins_wake1.pdf Graphic file (type pdf)
+<use CHAP_LINEAR/FIGURE/lins_wake1.pdf>
+Package pdftex.def Info: CHAP_LINEAR/FIGURE/lins_wake1.pdf  used on input line 
+27.
+(pdftex.def)             Requested size: 312.9803pt x 442.90189pt.
+<CHAP_LINEAR/FIGURE/lins_wake2.pdf, id=711, 597.23125pt x 845.1575pt>
+File: CHAP_LINEAR/FIGURE/lins_wake2.pdf Graphic file (type pdf)
+<use CHAP_LINEAR/FIGURE/lins_wake2.pdf>
+Package pdftex.def Info: CHAP_LINEAR/FIGURE/lins_wake2.pdf  used on input line 
+30.
+(pdftex.def)             Requested size: 312.9803pt x 442.90189pt.
+
+LaTeX Warning: Float too large for page by 293.47824pt on input line 37.
+
+<CHAP_LINEAR/FIGURE/lins_pres1.pdf, id=712, 597.23125pt x 845.1575pt>
+File: CHAP_LINEAR/FIGURE/lins_pres1.pdf Graphic file (type pdf)
+<use CHAP_LINEAR/FIGURE/lins_pres1.pdf>
+Package pdftex.def Info: CHAP_LINEAR/FIGURE/lins_pres1.pdf  used on input line 
+44.
+(pdftex.def)             Requested size: 312.9803pt x 442.90189pt.
+<CHAP_LINEAR/FIGURE/lins_pres2.pdf, id=713, 597.23125pt x 845.1575pt>
+File: CHAP_LINEAR/FIGURE/lins_pres2.pdf Graphic file (type pdf)
+<use CHAP_LINEAR/FIGURE/lins_pres2.pdf>
+Package pdftex.def Info: CHAP_LINEAR/FIGURE/lins_pres2.pdf  used on input line 
+47.
+(pdftex.def)             Requested size: 312.9803pt x 442.90189pt.
+
+LaTeX Warning: Float too large for page by 292.81155pt on input line 54.
+
+<CHAP_LINEAR/FIGURE/lins_bend1.pdf, id=714, 597.23125pt x 845.1575pt>
+File: CHAP_LINEAR/FIGURE/lins_bend1.pdf Graphic file (type pdf)
+<use CHAP_LINEAR/FIGURE/lins_bend1.pdf>
+Package pdftex.def Info: CHAP_LINEAR/FIGURE/lins_bend1.pdf  used on input line 
+61.
+(pdftex.def)             Requested size: 312.9803pt x 442.90189pt.
+<CHAP_LINEAR/FIGURE/lins_bend2.pdf, id=715, 597.23125pt x 845.1575pt>
+File: CHAP_LINEAR/FIGURE/lins_bend2.pdf Graphic file (type pdf)
+<use CHAP_LINEAR/FIGURE/lins_bend2.pdf>
+Package pdftex.def Info: CHAP_LINEAR/FIGURE/lins_bend2.pdf  used on input line 
+64.
+(pdftex.def)             Requested size: 312.9803pt x 442.90189pt.
+
+LaTeX Warning: Float too large for page by 292.81155pt on input line 71.
+
+[91]) (./CHAP_LINEAR/flat.tex
+<CHAP_LINEAR/FIGURE/flat_laminar_mesh1.pdf, id=719, 597.23125pt x 845.1575pt>
+File: CHAP_LINEAR/FIGURE/flat_laminar_mesh1.pdf Graphic file (type pdf)
+<use CHAP_LINEAR/FIGURE/flat_laminar_mesh1.pdf>
+Package pdftex.def Info: CHAP_LINEAR/FIGURE/flat_laminar_mesh1.pdf  used on inp
+ut line 11.
+(pdftex.def)             Requested size: 227.62204pt x 322.1175pt.
+<CHAP_LINEAR/FIGURE/flat_laminar_mesh2.pdf, id=720, 597.23125pt x 845.1575pt>
+File: CHAP_LINEAR/FIGURE/flat_laminar_mesh2.pdf Graphic file (type pdf)
+<use CHAP_LINEAR/FIGURE/flat_laminar_mesh2.pdf>
+Package pdftex.def Info: CHAP_LINEAR/FIGURE/flat_laminar_mesh2.pdf  used on inp
+ut line 14.
+(pdftex.def)             Requested size: 113.81102pt x 161.04585pt.
+ [92 <./CHAP_LINEAR/FIGURE/lins_geom.pdf> <./CHAP_LINEAR/FIGURE/lins_mesh.pdf>]
+ [93 <./CHAP_LINEAR/FIGURE/lins_wake1.pdf> <./CHAP_LINEAR/FIGURE/lins_wake2.pdf
+>] [94 <./CHAP_LINEAR/FIGURE/lins_pres1.pdf> <./CHAP_LINEAR/FIGURE/lins_pres2.p
+df>] [95 <./CHAP_LINEAR/FIGURE/lins_bend1.pdf> <./CHAP_LINEAR/FIGURE/lins_bend2
+.pdf>] [96 <./CHAP_LINEAR/FIGURE/flat_laminar_mesh1.pdf> <./CHAP_LINEAR/FIGURE/
+flat_laminar_mesh2.pdf>]
+<CHAP_LINEAR/FIGURE/flat_laminar_vel.pdf, id=786, 597.23125pt x 845.1575pt>
+File: CHAP_LINEAR/FIGURE/flat_laminar_vel.pdf Graphic file (type pdf)
+<use CHAP_LINEAR/FIGURE/flat_laminar_vel.pdf>
+Package pdftex.def Info: CHAP_LINEAR/FIGURE/flat_laminar_vel.pdf  used on input
+ line 62.
+(pdftex.def)             Requested size: 312.9803pt x 442.90189pt.
+<CHAP_LINEAR/FIGURE/flat_laminar_cff.pdf, id=787, 597.23125pt x 845.1575pt>
+File: CHAP_LINEAR/FIGURE/flat_laminar_cff.pdf Graphic file (type pdf)
+<use CHAP_LINEAR/FIGURE/flat_laminar_cff.pdf>
+Package pdftex.def Info: CHAP_LINEAR/FIGURE/flat_laminar_cff.pdf  used on input
+ line 65.
+(pdftex.def)             Requested size: 312.9803pt x 442.90189pt.
+
+
+LaTeX Warning: Float too large for page by 276.1401pt on input line 71.
+
+<CHAP_LINEAR/FIGURE/flat_laminar_ampli.pdf, id=788, 597.23125pt x 845.1575pt>
+File: CHAP_LINEAR/FIGURE/flat_laminar_ampli.pdf Graphic file (type pdf)
+<use CHAP_LINEAR/FIGURE/flat_laminar_ampli.pdf>
+Package pdftex.def Info: CHAP_LINEAR/FIGURE/flat_laminar_ampli.pdf  used on inp
+ut line 78.
+(pdftex.def)             Requested size: 312.9803pt x 442.90189pt.
+<CHAP_LINEAR/FIGURE/flat_laminar_phase.pdf, id=789, 597.23125pt x 845.1575pt>
+File: CHAP_LINEAR/FIGURE/flat_laminar_phase.pdf Graphic file (type pdf)
+<use CHAP_LINEAR/FIGURE/flat_laminar_phase.pdf>
+Package pdftex.def Info: CHAP_LINEAR/FIGURE/flat_laminar_phase.pdf  used on inp
+ut line 81.
+(pdftex.def)             Requested size: 312.9803pt x 442.90189pt.
+
+LaTeX Warning: Float too large for page by 276.1401pt on input line 87.
+
+) (./CHAP_LINEAR/stand11.tex
+<CHAP_LINEAR/FIGURE/mesh_11th.pdf, id=790, 597.23125pt x 845.1575pt>
+File: CHAP_LINEAR/FIGURE/mesh_11th.pdf Graphic file (type pdf)
+<use CHAP_LINEAR/FIGURE/mesh_11th.pdf>
+Package pdftex.def Info: CHAP_LINEAR/FIGURE/mesh_11th.pdf  used on input line 9
+.
+(pdftex.def)             Requested size: 341.43306pt x 483.17624pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--20
+[][]\OT1/cmr/m/n/10 The data for the In-ter-na-tional Stan-dard Con-fig-u-ra-ti
+ons can be found at
+ []
+
+<CHAP_LINEAR/FIGURE/steady_11th_m069_mac_con.pdf, id=791, 597.23125pt x 845.157
+5pt>
+File: CHAP_LINEAR/FIGURE/steady_11th_m069_mac_con.pdf Graphic file (type pdf)
+<use CHAP_LINEAR/FIGURE/steady_11th_m069_mac_con.pdf>
+Package pdftex.def Info: CHAP_LINEAR/FIGURE/steady_11th_m069_mac_con.pdf  used 
+on input line 35.
+(pdftex.def)             Requested size: 284.52756pt x 402.64043pt.
+<CHAP_LINEAR/FIGURE/steady_11th_m069_mac_bla.pdf, id=792, 597.23125pt x 845.157
+5pt>
+File: CHAP_LINEAR/FIGURE/steady_11th_m069_mac_bla.pdf Graphic file (type pdf)
+<use CHAP_LINEAR/FIGURE/steady_11th_m069_mac_bla.pdf>
+Package pdftex.def Info: CHAP_LINEAR/FIGURE/steady_11th_m069_mac_bla.pdf  used 
+on input line 43.
+(pdftex.def)             Requested size: 369.88582pt x 523.43771pt.
+[97] [98 <./CHAP_LINEAR/FIGURE/flat_laminar_vel.pdf> <./CHAP_LINEAR/FIGURE/flat
+_laminar_cff.pdf>] [99 <./CHAP_LINEAR/FIGURE/flat_laminar_ampli.pdf> <./CHAP_LI
+NEAR/FIGURE/flat_laminar_phase.pdf>] [100 <./CHAP_LINEAR/FIGURE/mesh_11th.pdf>]
+[101 <./CHAP_LINEAR/FIGURE/steady_11th_m069_mac_con.pdf>]
+<CHAP_LINEAR/FIGURE/steady_11th_m099_mac_con.pdf, id=838, 530.98375pt x 428.601
+26pt>
+File: CHAP_LINEAR/FIGURE/steady_11th_m099_mac_con.pdf Graphic file (type pdf)
+<use CHAP_LINEAR/FIGURE/steady_11th_m099_mac_con.pdf>
+Package pdftex.def Info: CHAP_LINEAR/FIGURE/steady_11th_m099_mac_con.pdf  used 
+on input line 87.
+(pdftex.def)             Requested size: 227.62204pt x 183.73251pt.
+<CHAP_LINEAR/FIGURE/steady_11th_m099_stream.pdf, id=839, 597.23125pt x 845.1575
+pt>
+File: CHAP_LINEAR/FIGURE/steady_11th_m099_stream.pdf Graphic file (type pdf)
+<use CHAP_LINEAR/FIGURE/steady_11th_m099_stream.pdf>
+Package pdftex.def Info: CHAP_LINEAR/FIGURE/steady_11th_m099_stream.pdf  used o
+n input line 89.
+(pdftex.def)             Requested size: 227.62204pt x 322.1175pt.
+<CHAP_LINEAR/FIGURE/steady_11th_m099_mac_bla.pdf, id=840, 597.23125pt x 845.157
+5pt>
+File: CHAP_LINEAR/FIGURE/steady_11th_m099_mac_bla.pdf Graphic file (type pdf)
+<use CHAP_LINEAR/FIGURE/steady_11th_m099_mac_bla.pdf>
+Package pdftex.def Info: CHAP_LINEAR/FIGURE/steady_11th_m099_mac_bla.pdf  used 
+on input line 99.
+(pdftex.def)             Requested size: 369.88582pt x 523.43771pt.
+ [102]
+<CHAP_LINEAR/FIGURE/unsteady_blade_069_180_1.pdf, id=846, 597.23125pt x 845.157
+5pt>
+File: CHAP_LINEAR/FIGURE/unsteady_blade_069_180_1.pdf Graphic file (type pdf)
+<use CHAP_LINEAR/FIGURE/unsteady_blade_069_180_1.pdf>
+Package pdftex.def Info: CHAP_LINEAR/FIGURE/unsteady_blade_069_180_1.pdf  used 
+on input line 155.
+(pdftex.def)             Requested size: 201.06018pt x 284.52756pt.
+<CHAP_LINEAR/FIGURE/unsteady_blade_069_180_2.pdf, id=847, 597.23125pt x 845.157
+5pt>
+File: CHAP_LINEAR/FIGURE/unsteady_blade_069_180_2.pdf Graphic file (type pdf)
+<use CHAP_LINEAR/FIGURE/unsteady_blade_069_180_2.pdf>
+Package pdftex.def Info: CHAP_LINEAR/FIGURE/unsteady_blade_069_180_2.pdf  used 
+on input line 156.
+(pdftex.def)             Requested size: 201.06018pt x 284.52756pt.
+<CHAP_LINEAR/FIGURE/unsteady_blade_069_180_3.pdf, id=848, 597.23125pt x 845.157
+5pt>
+File: CHAP_LINEAR/FIGURE/unsteady_blade_069_180_3.pdf Graphic file (type pdf)
+<use CHAP_LINEAR/FIGURE/unsteady_blade_069_180_3.pdf>
+Package pdftex.def Info: CHAP_LINEAR/FIGURE/unsteady_blade_069_180_3.pdf  used 
+on input line 169.
+(pdftex.def)             Requested size: 201.06018pt x 284.52756pt.
+<CHAP_LINEAR/FIGURE/unsteady_blade_069_180_4.pdf, id=849, 597.23125pt x 845.157
+5pt>
+File: CHAP_LINEAR/FIGURE/unsteady_blade_069_180_4.pdf Graphic file (type pdf)
+<use CHAP_LINEAR/FIGURE/unsteady_blade_069_180_4.pdf>
+Package pdftex.def Info: CHAP_LINEAR/FIGURE/unsteady_blade_069_180_4.pdf  used 
+on input line 170.
+(pdftex.def)             Requested size: 201.06018pt x 284.52756pt.
+<CHAP_LINEAR/FIGURE/unsteady_blade_099_180_1.pdf, id=850, 597.23125pt x 845.157
+5pt>
+File: CHAP_LINEAR/FIGURE/unsteady_blade_099_180_1.pdf Graphic file (type pdf)
+<use CHAP_LINEAR/FIGURE/unsteady_blade_099_180_1.pdf>
+Package pdftex.def Info: CHAP_LINEAR/FIGURE/unsteady_blade_099_180_1.pdf  used 
+on input line 183.
+(pdftex.def)             Requested size: 201.06018pt x 284.52756pt.
+<CHAP_LINEAR/FIGURE/unsteady_blade_099_180_2.pdf, id=851, 597.23125pt x 845.157
+5pt>
+File: CHAP_LINEAR/FIGURE/unsteady_blade_099_180_2.pdf Graphic file (type pdf)
+<use CHAP_LINEAR/FIGURE/unsteady_blade_099_180_2.pdf>
+Package pdftex.def Info: CHAP_LINEAR/FIGURE/unsteady_blade_099_180_2.pdf  used 
+on input line 184.
+(pdftex.def)             Requested size: 201.06018pt x 284.52756pt.
+<CHAP_LINEAR/FIGURE/unsteady_blade_099_180_3.pdf, id=852, 597.23125pt x 845.157
+5pt>
+File: CHAP_LINEAR/FIGURE/unsteady_blade_099_180_3.pdf Graphic file (type pdf)
+<use CHAP_LINEAR/FIGURE/unsteady_blade_099_180_3.pdf>
+Package pdftex.def Info: CHAP_LINEAR/FIGURE/unsteady_blade_099_180_3.pdf  used 
+on input line 197.
+(pdftex.def)             Requested size: 201.06018pt x 284.52756pt.
+<CHAP_LINEAR/FIGURE/unsteady_blade_099_180_4.pdf, id=853, 597.23125pt x 845.157
+5pt>
+File: CHAP_LINEAR/FIGURE/unsteady_blade_099_180_4.pdf Graphic file (type pdf)
+<use CHAP_LINEAR/FIGURE/unsteady_blade_099_180_4.pdf>
+Package pdftex.def Info: CHAP_LINEAR/FIGURE/unsteady_blade_099_180_4.pdf  used 
+on input line 198.
+(pdftex.def)             Requested size: 201.06018pt x 284.52756pt.
+) [103])
+(./CHAP_RT27/rt27.tex [104] [105 <./CHAP_LINEAR/FIGURE/steady_11th_m069_mac_bla
+.pdf>] [106 <./CHAP_LINEAR/FIGURE/steady_11th_m099_mac_con.pdf> <./CHAP_LINEAR/
+FIGURE/steady_11th_m099_stream.pdf>] [107 <./CHAP_LINEAR/FIGURE/steady_11th_m09
+9_mac_bla.pdf>] [108 <./CHAP_LINEAR/FIGURE/unsteady_blade_069_180_1.pdf> <./CHA
+P_LINEAR/FIGURE/unsteady_blade_069_180_2.pdf>] [109 <./CHAP_LINEAR/FIGURE/unste
+ady_blade_069_180_3.pdf> <./CHAP_LINEAR/FIGURE/unsteady_blade_069_180_4.pdf>]
+[110 <./CHAP_LINEAR/FIGURE/unsteady_blade_099_180_1.pdf> <./CHAP_LINEAR/FIGURE/
+unsteady_blade_099_180_2.pdf>] [111 <./CHAP_LINEAR/FIGURE/unsteady_blade_099_18
+0_3.pdf> <./CHAP_LINEAR/FIGURE/unsteady_blade_099_180_4.pdf>]
+Chapter 5.
+(./CHAP_RT27/intro.tex [112
+
+] [113]
+<CHAP_RT27/FIGURE/stage1.pdf, id=972, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/stage1.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/stage1.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/stage1.pdf  used on input line 133.
+(pdftex.def)             Requested size: 284.52756pt x 402.64043pt.
+ [114] [115 <./CHAP_RT27/FIGURE/stage1.pdf>]) (./CHAP_RT27/steady.tex [116]
+Underfull \hbox (badness 10000) in paragraph at lines 46--47
+
+ []
+
+<CHAP_RT27/FIGURE/mesh3d_1.pdf, id=988, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/mesh3d_1.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/mesh3d_1.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/mesh3d_1.pdf  used on input line 50.
+(pdftex.def)             Requested size: 398.33858pt x 563.69917pt.
+<CHAP_RT27/FIGURE/mesh3d_3.pdf, id=989, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/mesh3d_3.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/mesh3d_3.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/mesh3d_3.pdf  used on input line 53.
+(pdftex.def)             Requested size: 398.33858pt x 563.69917pt.
+
+Overfull \hbox (15.91664pt too wide) in paragraph at lines 48--55
+ [] 
+ []
+
+
+LaTeX Warning: Float too large for page by 462.33823pt on input line 59.
+
+<CHAP_RT27/FIGURE/mesh3d_4.pdf, id=990, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/mesh3d_4.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/mesh3d_4.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/mesh3d_4.pdf  used on input line 81.
+(pdftex.def)             Requested size: 199.16928pt x 281.84314pt.
+<CHAP_RT27/FIGURE/mesh3d_5.pdf, id=991, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/mesh3d_5.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/mesh3d_5.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/mesh3d_5.pdf  used on input line 84.
+(pdftex.def)             Requested size: 199.16928pt x 281.84314pt.
+
+Overfull \hbox (1.23781pt too wide) in paragraph at lines 79--86
+ [] 
+ []
+
+<CHAP_RT27/FIGURE/mesh3d_2.pdf, id=992, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/mesh3d_2.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/mesh3d_2.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/mesh3d_2.pdf  used on input line 118.
+
+(pdftex.def)             Requested size: 398.33858pt x 563.69917pt.
+[117] [118 <./CHAP_RT27/FIGURE/mesh3d_1.pdf> <./CHAP_RT27/FIGURE/mesh3d_3.pdf>]
+<CHAP_RT27/FIGURE/alphaxr.pdf, id=1005, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/alphaxr.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/alphaxr.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/alphaxr.pdf  used on input line 192.
+(pdftex.def)             Requested size: 120.63792pt x 170.71652pt.
+<CHAP_RT27/FIGURE/outpres.pdf, id=1006, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/outpres.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/outpres.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/outpres.pdf  used on input line 195.
+(pdftex.def)             Requested size: 120.63792pt x 170.71652pt.
+[119 <./CHAP_RT27/FIGURE/mesh3d_4.pdf> <./CHAP_RT27/FIGURE/mesh3d_5.pdf>]
+<CHAP_RT27/FIGURE/rotor_traces_pres.pdf, id=1016, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/rotor_traces_pres.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/rotor_traces_pres.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/rotor_traces_pres.pdf  used on input 
+line 212.
+(pdftex.def)             Requested size: 213.39566pt x 301.98676pt.
+<CHAP_RT27/FIGURE/rotor_traces_suct.pdf, id=1017, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/rotor_traces_suct.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/rotor_traces_suct.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/rotor_traces_suct.pdf  used on input 
+line 215.
+(pdftex.def)             Requested size: 213.39566pt x 301.98676pt.
+
+Overfull \hbox (29.69057pt too wide) in paragraph at lines 210--217
+ [] 
+ []
+
+<CHAP_RT27/FIGURE/mid.pdf, id=1018, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/mid.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/mid.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/mid.pdf  used on input line 250.
+(pdftex.def)             Requested size: 284.52756pt x 402.64043pt.
+<CHAP_RT27/FIGURE/rot_le.pdf, id=1019, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/rot_le.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/rot_le.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/rot_le.pdf  used on input line 275.
+(pdftex.def)             Requested size: 284.52756pt x 402.64043pt.
+<CHAP_RT27/FIGURE/hub.pdf, id=1020, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/hub.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/hub.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/hub.pdf  used on input line 300.
+(pdftex.def)             Requested size: 213.39566pt x 301.98676pt.
+<CHAP_RT27/FIGURE/midhub.pdf, id=1021, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/midhub.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/midhub.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/midhub.pdf  used on input line 303.
+(pdftex.def)             Requested size: 213.39566pt x 301.98676pt.
+<CHAP_RT27/FIGURE/midtip.pdf, id=1022, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/midtip.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/midtip.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/midtip.pdf  used on input line 306.
+(pdftex.def)             Requested size: 213.39566pt x 301.98676pt.
+<CHAP_RT27/FIGURE/tip.pdf, id=1023, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/tip.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/tip.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/tip.pdf  used on input line 309.
+(pdftex.def)             Requested size: 213.39566pt x 301.98676pt.
+
+Overfull \hbox (5.15445pt too wide) in paragraph at lines 298--311
+ [] 
+ []
+
+[120] [121]
+<CHAP_RT27/FIGURE/rotor_hub_traces.pdf, id=1031, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/rotor_hub_traces.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/rotor_hub_traces.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/rotor_hub_traces.pdf  used on input l
+ine 365.
+(pdftex.def)             Requested size: 284.52756pt x 402.64043pt.
+<CHAP_RT27/FIGURE/slid056.pdf, id=1032, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/slid056.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/slid056.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/slid056.pdf  used on input line 395.
+(pdftex.def)             Requested size: 170.71652pt x 241.58167pt.
+<CHAP_RT27/FIGURE/slid060.pdf, id=1033, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/slid060.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/slid060.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/slid060.pdf  used on input line 398.
+(pdftex.def)             Requested size: 170.71652pt x 241.58167pt.
+<CHAP_RT27/FIGURE/slid0pr.pdf, id=1034, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/slid0pr.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/slid0pr.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/slid0pr.pdf  used on input line 401.
+(pdftex.def)             Requested size: 56.9055pt x 80.52292pt.
+ [122]
+<CHAP_RT27/FIGURE/rotor_tip_traces.pdf, id=1038, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/rotor_tip_traces.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/rotor_tip_traces.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/rotor_tip_traces.pdf  used on input l
+ine 443.
+(pdftex.def)             Requested size: 284.52756pt x 402.64043pt.
+) (./CHAP_RT27/unsteady.tex [123]
+<CHAP_RT27/FIGURE/ngvout_pres.pdf, id=1042, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/ngvout_pres.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/ngvout_pres.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/ngvout_pres.pdf  used on input line 4
+8.
+(pdftex.def)             Requested size: 369.88582pt x 523.43771pt.
+<CHAP_RT27/FIGURE/ngvout_mach.pdf, id=1043, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/ngvout_mach.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/ngvout_mach.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/ngvout_mach.pdf  used on input line 5
+1.
+(pdftex.def)             Requested size: 369.88582pt x 523.43771pt.
+<CHAP_RT27/FIGURE/ngvout_ptot.pdf, id=1044, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/ngvout_ptot.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/ngvout_ptot.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/ngvout_ptot.pdf  used on input line 5
+4.
+(pdftex.def)             Requested size: 369.88582pt x 523.43771pt.
+
+
+LaTeX Warning: Float too large for page by 962.7565pt on input line 60.
+
+<CHAP_RT27/FIGURE/out_vort1.pdf, id=1045, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/out_vort1.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/out_vort1.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/out_vort1.pdf  used on input line 83.
+
+(pdftex.def)             Requested size: 199.16928pt x 281.84314pt.
+<CHAP_RT27/FIGURE/out_vort2.pdf, id=1046, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/out_vort2.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/out_vort2.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/out_vort2.pdf  used on input line 83.
+
+(pdftex.def)             Requested size: 199.16928pt x 281.84314pt.
+<CHAP_RT27/FIGURE/out_pote1.pdf, id=1047, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/out_pote1.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/out_pote1.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/out_pote1.pdf  used on input line 90.
+
+(pdftex.def)             Requested size: 199.16928pt x 281.84314pt.
+<CHAP_RT27/FIGURE/out_pote2.pdf, id=1048, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/out_pote2.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/out_pote2.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/out_pote2.pdf  used on input line 90.
+
+(pdftex.def)             Requested size: 199.16928pt x 281.84314pt.
+<CHAP_RT27/FIGURE/out_entr1.pdf, id=1049, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/out_entr1.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/out_entr1.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/out_entr1.pdf  used on input line 97.
+
+(pdftex.def)             Requested size: 199.16928pt x 281.84314pt.
+<CHAP_RT27/FIGURE/out_entr2.pdf, id=1050, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/out_entr2.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/out_entr2.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/out_entr2.pdf  used on input line 97.
+
+(pdftex.def)             Requested size: 199.16928pt x 281.84314pt.
+
+Overfull \hbox (17.15445pt too wide) in paragraph at lines 77--99
+ [] 
+ []
+
+
+LaTeX Warning: Float too large for page by 274.788pt on input line 104.
+
+[124]
+<CHAP_RT27/FIGURE/out_vel_vor.pdf, id=1054, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/out_vel_vor.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/out_vel_vor.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/out_vel_vor.pdf  used on input line 1
+48.
+(pdftex.def)             Requested size: 199.16928pt x 281.84314pt.
+<CHAP_RT27/FIGURE/out_vel_pot.pdf, id=1055, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/out_vel_pot.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/out_vel_pot.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/out_vel_pot.pdf  used on input line 1
+51.
+(pdftex.def)             Requested size: 199.16928pt x 281.84314pt.
+
+Overfull \hbox (1.23781pt too wide) in paragraph at lines 146--153
+ [] 
+ []
+
+<CHAP_RT27/FIGURE/amps2m1.pdf, id=1056, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/amps2m1.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/amps2m1.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/amps2m1.pdf  used on input line 191.
+(pdftex.def)             Requested size: 199.16928pt x 281.84314pt.
+<CHAP_RT27/FIGURE/phas2m1.pdf, id=1057, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/phas2m1.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/phas2m1.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/phas2m1.pdf  used on input line 191.
+(pdftex.def)             Requested size: 199.16928pt x 281.84314pt.
+<CHAP_RT27/FIGURE/amps3m1.pdf, id=1058, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/amps3m1.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/amps3m1.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/amps3m1.pdf  used on input line 199.
+(pdftex.def)             Requested size: 199.16928pt x 281.84314pt.
+<CHAP_RT27/FIGURE/phas3m1.pdf, id=1059, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/phas3m1.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/phas3m1.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/phas3m1.pdf  used on input line 199.
+(pdftex.def)             Requested size: 199.16928pt x 281.84314pt.
+<CHAP_RT27/FIGURE/amps5m1.pdf, id=1060, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/amps5m1.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/amps5m1.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/amps5m1.pdf  used on input line 207.
+(pdftex.def)             Requested size: 199.16928pt x 281.84314pt.
+<CHAP_RT27/FIGURE/phas5m1.pdf, id=1061, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/phas5m1.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/phas5m1.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/phas5m1.pdf  used on input line 207.
+(pdftex.def)             Requested size: 199.16928pt x 281.84314pt.
+
+Overfull \hbox (6.84471pt too wide) in paragraph at lines 184--209
+[]  
+ []
+
+
+LaTeX Warning: Float too large for page by 276.56638pt on input line 217.
+
+<CHAP_RT27/FIGURE/amps2m2.pdf, id=1062, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/amps2m2.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/amps2m2.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/amps2m2.pdf  used on input line 245.
+(pdftex.def)             Requested size: 199.16928pt x 281.84314pt.
+<CHAP_RT27/FIGURE/phas2m2.pdf, id=1063, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/phas2m2.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/phas2m2.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/phas2m2.pdf  used on input line 245.
+(pdftex.def)             Requested size: 199.16928pt x 281.84314pt.
+<CHAP_RT27/FIGURE/amps3m2.pdf, id=1064, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/amps3m2.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/amps3m2.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/amps3m2.pdf  used on input line 253.
+(pdftex.def)             Requested size: 199.16928pt x 281.84314pt.
+<CHAP_RT27/FIGURE/phas3m2.pdf, id=1065, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/phas3m2.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/phas3m2.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/phas3m2.pdf  used on input line 253.
+(pdftex.def)             Requested size: 199.16928pt x 281.84314pt.
+<CHAP_RT27/FIGURE/amps5m2.pdf, id=1066, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/amps5m2.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/amps5m2.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/amps5m2.pdf  used on input line 261.
+(pdftex.def)             Requested size: 199.16928pt x 281.84314pt.
+<CHAP_RT27/FIGURE/phas5m2.pdf, id=1067, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/phas5m2.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/phas5m2.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/phas5m2.pdf  used on input line 261.
+(pdftex.def)             Requested size: 199.16928pt x 281.84314pt.
+
+Overfull \hbox (6.84471pt too wide) in paragraph at lines 238--263
+[]  
+ []
+
+
+LaTeX Warning: Float too large for page by 276.56638pt on input line 271.
+
+[125]
+<CHAP_RT27/FIGURE/unsmidsec_4.pdf, id=1071, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/unsmidsec_4.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/unsmidsec_4.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/unsmidsec_4.pdf  used on input line 3
+28.
+(pdftex.def)             Requested size: 369.88582pt x 523.43771pt.
+<CHAP_RT27/FIGURE/unsmidsec_5.pdf, id=1072, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/unsmidsec_5.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/unsmidsec_5.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/unsmidsec_5.pdf  used on input line 3
+32.
+(pdftex.def)             Requested size: 369.88582pt x 523.43771pt.
+<CHAP_RT27/FIGURE/unsmidsec_6.pdf, id=1073, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/unsmidsec_6.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/unsmidsec_6.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/unsmidsec_6.pdf  used on input line 3
+36.
+(pdftex.def)             Requested size: 369.88582pt x 523.43771pt.
+
+
+LaTeX Warning: Float too large for page by 1030.021pt on input line 346.
+
+<CHAP_RT27/FIGURE/unsmidsec_1.pdf, id=1074, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/unsmidsec_1.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/unsmidsec_1.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/unsmidsec_1.pdf  used on input line 3
+53.
+(pdftex.def)             Requested size: 369.88582pt x 523.43771pt.
+<CHAP_RT27/FIGURE/unsmidsec_2.pdf, id=1075, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/unsmidsec_2.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/unsmidsec_2.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/unsmidsec_2.pdf  used on input line 3
+57.
+(pdftex.def)             Requested size: 369.88582pt x 523.43771pt.
+<CHAP_RT27/FIGURE/unsmidsec_3.pdf, id=1076, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/unsmidsec_3.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/unsmidsec_3.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/unsmidsec_3.pdf  used on input line 3
+61.
+(pdftex.def)             Requested size: 369.88582pt x 523.43771pt.
+
+LaTeX Warning: Float too large for page by 1030.021pt on input line 371.
+
+[126]
+<CHAP_RT27/FIGURE/presvor1.pdf, id=1081, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/presvor1.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/presvor1.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/presvor1.pdf  used on input line 423.
+
+(pdftex.def)             Requested size: 199.16928pt x 281.84314pt.
+<CHAP_RT27/FIGURE/suctvor1.pdf, id=1082, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/suctvor1.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/suctvor1.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/suctvor1.pdf  used on input line 427.
+
+(pdftex.def)             Requested size: 199.16928pt x 281.84314pt.
+<CHAP_RT27/FIGURE/presvor2.pdf, id=1083, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/presvor2.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/presvor2.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/presvor2.pdf  used on input line 452.
+
+(pdftex.def)             Requested size: 199.16928pt x 281.84314pt.
+<CHAP_RT27/FIGURE/suctvor2.pdf, id=1084, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/suctvor2.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/suctvor2.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/suctvor2.pdf  used on input line 456.
+
+(pdftex.def)             Requested size: 199.16928pt x 281.84314pt.
+ [127]
+<CHAP_RT27/FIGURE/prespot1.pdf, id=1088, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/prespot1.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/prespot1.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/prespot1.pdf  used on input line 498.
+
+(pdftex.def)             Requested size: 199.16928pt x 281.84314pt.
+<CHAP_RT27/FIGURE/suctpot1.pdf, id=1089, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/suctpot1.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/suctpot1.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/suctpot1.pdf  used on input line 502.
+
+(pdftex.def)             Requested size: 199.16928pt x 281.84314pt.
+ [128]
+<CHAP_RT27/FIGURE/prespot2.pdf, id=1093, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/prespot2.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/prespot2.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/prespot2.pdf  used on input line 575.
+
+(pdftex.def)             Requested size: 199.16928pt x 281.84314pt.
+<CHAP_RT27/FIGURE/suctpot2.pdf, id=1094, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/suctpot2.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/suctpot2.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/suctpot2.pdf  used on input line 579.
+
+(pdftex.def)             Requested size: 199.16928pt x 281.84314pt.
+ [129] [130]
+Overfull \hbox (1.43788pt too wide) in paragraph at lines 678--682
+[]\OT1/cmr/m/n/12 The im-por-tance of in-clud-ing both po-ten-tial and vor-ti-c
+al dis-tur-bances is clearly
+ []
+
+) (./CHAP_RT27/linvnon.tex
+<CHAP_RT27/FIGURE/rot_mac_kul.pdf, id=1101, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/rot_mac_kul.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/rot_mac_kul.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/rot_mac_kul.pdf  used on input line 3
+7.
+(pdftex.def)             Requested size: 284.52756pt x 402.64043pt.
+ [131]
+<CHAP_RT27/FIGURE/uns1amp1.pdf, id=1105, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/uns1amp1.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/uns1amp1.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/uns1amp1.pdf  used on input line 74.
+(pdftex.def)             Requested size: 213.39566pt x 301.98676pt.
+<CHAP_RT27/FIGURE/uns1pha1.pdf, id=1106, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/uns1pha1.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/uns1pha1.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/uns1pha1.pdf  used on input line 77.
+(pdftex.def)             Requested size: 213.39566pt x 301.98676pt.
+
+Overfull \hbox (5.15445pt too wide) in paragraph at lines 71--79
+[]  
+ []
+
+<CHAP_RT27/FIGURE/uns1amp2.pdf, id=1107, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/uns1amp2.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/uns1amp2.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/uns1amp2.pdf  used on input line 94.
+(pdftex.def)             Requested size: 213.39566pt x 301.98676pt.
+<CHAP_RT27/FIGURE/uns1pha2.pdf, id=1108, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/uns1pha2.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/uns1pha2.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/uns1pha2.pdf  used on input line 97.
+(pdftex.def)             Requested size: 213.39566pt x 301.98676pt.
+
+Overfull \hbox (5.15445pt too wide) in paragraph at lines 91--99
+[]  
+ []
+
+<CHAP_RT27/FIGURE/uns1amp3.pdf, id=1109, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/uns1amp3.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/uns1amp3.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/uns1amp3.pdf  used on input line 114.
+
+(pdftex.def)             Requested size: 213.39566pt x 301.98676pt.
+<CHAP_RT27/FIGURE/uns1pha3.pdf, id=1110, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/uns1pha3.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/uns1pha3.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/uns1pha3.pdf  used on input line 117.
+
+(pdftex.def)             Requested size: 213.39566pt x 301.98676pt.
+
+Overfull \hbox (5.15445pt too wide) in paragraph at lines 111--119
+[]  
+ []
+
+) (./CHAP_RT27/conclu.tex [132]) (./CHAP_RT27/recon.tex
+<CHAP_RT27/FIGURE/kb03.pdf, id=1115, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/kb03.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/kb03.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/kb03.pdf  used on input line 8.
+(pdftex.def)             Requested size: 213.39566pt x 301.98676pt.
+<CHAP_RT27/FIGURE/k003.pdf, id=1116, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/k003.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/k003.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/k003.pdf  used on input line 11.
+(pdftex.def)             Requested size: 213.39566pt x 301.98676pt.
+<CHAP_RT27/FIGURE/kb04.pdf, id=1117, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/kb04.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/kb04.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/kb04.pdf  used on input line 15.
+(pdftex.def)             Requested size: 213.39566pt x 301.98676pt.
+<CHAP_RT27/FIGURE/k005.pdf, id=1118, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/k005.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/k005.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/k005.pdf  used on input line 18.
+(pdftex.def)             Requested size: 213.39566pt x 301.98676pt.
+<CHAP_RT27/FIGURE/kb05.pdf, id=1119, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/kb05.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/kb05.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/kb05.pdf  used on input line 22.
+(pdftex.def)             Requested size: 213.39566pt x 301.98676pt.
+<CHAP_RT27/FIGURE/k006.pdf, id=1120, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/k006.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/k006.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/k006.pdf  used on input line 25.
+(pdftex.def)             Requested size: 213.39566pt x 301.98676pt.
+
+Overfull \hbox (9.07108pt too wide) in paragraph at lines 5--27
+[]  
+ []
+
+
+LaTeX Warning: Float too large for page by 300.51532pt on input line 33.
+
+<CHAP_RT27/FIGURE/k007.pdf, id=1121, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/k007.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/k007.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/k007.pdf  used on input line 42.
+(pdftex.def)             Requested size: 213.39566pt x 301.98676pt.
+<CHAP_RT27/FIGURE/k008.pdf, id=1122, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/k008.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/k008.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/k008.pdf  used on input line 45.
+(pdftex.def)             Requested size: 213.39566pt x 301.98676pt.
+<CHAP_RT27/FIGURE/kb07.pdf, id=1123, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/kb07.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/kb07.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/kb07.pdf  used on input line 49.
+(pdftex.def)             Requested size: 213.39566pt x 301.98676pt.
+<CHAP_RT27/FIGURE/kb08.pdf, id=1124, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/kb08.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/kb08.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/kb08.pdf  used on input line 52.
+(pdftex.def)             Requested size: 213.39566pt x 301.98676pt.
+<CHAP_RT27/FIGURE/k014.pdf, id=1125, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/k014.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/k014.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/k014.pdf  used on input line 56.
+(pdftex.def)             Requested size: 213.39566pt x 301.98676pt.
+<CHAP_RT27/FIGURE/k015.pdf, id=1126, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/k015.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/k015.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/k015.pdf  used on input line 59.
+(pdftex.def)             Requested size: 213.39566pt x 301.98676pt.
+
+Overfull \hbox (9.07108pt too wide) in paragraph at lines 39--61
+[]  
+ []
+
+
+LaTeX Warning: Float too large for page by 320.03204pt on input line 67.
+
+<CHAP_RT27/FIGURE/ka01.pdf, id=1127, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/ka01.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/ka01.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/ka01.pdf  used on input line 78.
+(pdftex.def)             Requested size: 213.39566pt x 301.98676pt.
+<CHAP_RT27/FIGURE/ka02.pdf, id=1128, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/ka02.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/ka02.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/ka02.pdf  used on input line 81.
+(pdftex.def)             Requested size: 213.39566pt x 301.98676pt.
+<CHAP_RT27/FIGURE/ka04.pdf, id=1129, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/ka04.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/ka04.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/ka04.pdf  used on input line 85.
+(pdftex.def)             Requested size: 213.39566pt x 301.98676pt.
+<CHAP_RT27/FIGURE/ka06.pdf, id=1130, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/ka06.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/ka06.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/ka06.pdf  used on input line 88.
+(pdftex.def)             Requested size: 213.39566pt x 301.98676pt.
+<CHAP_RT27/FIGURE/k102.pdf, id=1131, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/k102.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/k102.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/k102.pdf  used on input line 92.
+(pdftex.def)             Requested size: 213.39566pt x 301.98676pt.
+<CHAP_RT27/FIGURE/ka08.pdf, id=1132, 597.23125pt x 845.1575pt>
+File: CHAP_RT27/FIGURE/ka08.pdf Graphic file (type pdf)
+<use CHAP_RT27/FIGURE/ka08.pdf>
+Package pdftex.def Info: CHAP_RT27/FIGURE/ka08.pdf  used on input line 95.
+(pdftex.def)             Requested size: 213.39566pt x 301.98676pt.
+
+Overfull \hbox (9.07108pt too wide) in paragraph at lines 75--97
+[]  
+ []
+
+
+LaTeX Warning: Float too large for page by 320.03204pt on input line 103.
+
+)) (./CHAP_CONCL/conclu.tex [133] [134 <./CHAP_RT27/FIGURE/mesh3d_2.pdf>]
+[135 <./CHAP_RT27/FIGURE/alphaxr.pdf> <./CHAP_RT27/FIGURE/outpres.pdf> <./CHAP_
+RT27/FIGURE/rotor_traces_pres.pdf> <./CHAP_RT27/FIGURE/rotor_traces_suct.pdf>]
+[136 <./CHAP_RT27/FIGURE/mid.pdf>] [137 <./CHAP_RT27/FIGURE/rot_le.pdf>]
+[138 <./CHAP_RT27/FIGURE/hub.pdf> <./CHAP_RT27/FIGURE/midhub.pdf> <./CHAP_RT27/
+FIGURE/midtip.pdf> <./CHAP_RT27/FIGURE/tip.pdf>] [139 <./CHAP_RT27/FIGURE/rotor
+_hub_traces.pdf>] [140 <./CHAP_RT27/FIGURE/slid056.pdf> <./CHAP_RT27/FIGURE/sli
+d060.pdf> <./CHAP_RT27/FIGURE/slid0pr.pdf>] [141 <./CHAP_RT27/FIGURE/rotor_tip_
+traces.pdf>] [142 <./CHAP_RT27/FIGURE/ngvout_pres.pdf> <./CHAP_RT27/FIGURE/ngvo
+ut_mach.pdf> <./CHAP_RT27/FIGURE/ngvout_ptot.pdf>] [143 <./CHAP_RT27/FIGURE/out
+_vort1.pdf> <./CHAP_RT27/FIGURE/out_vort2.pdf> <./CHAP_RT27/FIGURE/out_pote1.pd
+f> <./CHAP_RT27/FIGURE/out_pote2.pdf> <./CHAP_RT27/FIGURE/out_entr1.pdf> <./CHA
+P_RT27/FIGURE/out_entr2.pdf>] [144 <./CHAP_RT27/FIGURE/out_vel_vor.pdf> <./CHAP
+_RT27/FIGURE/out_vel_pot.pdf>] [145 <./CHAP_RT27/FIGURE/amps2m1.pdf> <./CHAP_RT
+27/FIGURE/phas2m1.pdf> <./CHAP_RT27/FIGURE/amps3m1.pdf> <./CHAP_RT27/FIGURE/pha
+s3m1.pdf> <./CHAP_RT27/FIGURE/amps5m1.pdf> <./CHAP_RT27/FIGURE/phas5m1.pdf>]
+[146 <./CHAP_RT27/FIGURE/amps2m2.pdf> <./CHAP_RT27/FIGURE/phas2m2.pdf> <./CHAP_
+RT27/FIGURE/amps3m2.pdf> <./CHAP_RT27/FIGURE/phas3m2.pdf> <./CHAP_RT27/FIGURE/a
+mps5m2.pdf> <./CHAP_RT27/FIGURE/phas5m2.pdf>] [147 <./CHAP_RT27/FIGURE/unsmidse
+c_4.pdf> <./CHAP_RT27/FIGURE/unsmidsec_5.pdf> <./CHAP_RT27/FIGURE/unsmidsec_6.p
+df>] [148 <./CHAP_RT27/FIGURE/unsmidsec_1.pdf> <./CHAP_RT27/FIGURE/unsmidsec_2.
+pdf> <./CHAP_RT27/FIGURE/unsmidsec_3.pdf>] [149 <./CHAP_RT27/FIGURE/presvor1.pd
+f> <./CHAP_RT27/FIGURE/suctvor1.pdf>] [150 <./CHAP_RT27/FIGURE/presvor2.pdf> <.
+/CHAP_RT27/FIGURE/suctvor2.pdf>] [151 <./CHAP_RT27/FIGURE/prespot1.pdf> <./CHAP
+_RT27/FIGURE/suctpot1.pdf>] [152 <./CHAP_RT27/FIGURE/prespot2.pdf> <./CHAP_RT27
+/FIGURE/suctpot2.pdf>] [153 <./CHAP_RT27/FIGURE/rot_mac_kul.pdf>] [154 <./CHAP_
+RT27/FIGURE/uns1amp1.pdf> <./CHAP_RT27/FIGURE/uns1pha1.pdf>] [155 <./CHAP_RT27/
+FIGURE/uns1amp2.pdf> <./CHAP_RT27/FIGURE/uns1pha2.pdf>] [156 <./CHAP_RT27/FIGUR
+E/uns1amp3.pdf> <./CHAP_RT27/FIGURE/uns1pha3.pdf>] [157 <./CHAP_RT27/FIGURE/kb0
+3.pdf> <./CHAP_RT27/FIGURE/k003.pdf> <./CHAP_RT27/FIGURE/kb04.pdf> <./CHAP_RT27
+/FIGURE/k005.pdf> <./CHAP_RT27/FIGURE/kb05.pdf> <./CHAP_RT27/FIGURE/k006.pdf>]
+[158 <./CHAP_RT27/FIGURE/k007.pdf> <./CHAP_RT27/FIGURE/k008.pdf> <./CHAP_RT27/F
+IGURE/kb07.pdf> <./CHAP_RT27/FIGURE/kb08.pdf> <./CHAP_RT27/FIGURE/k014.pdf> <./
+CHAP_RT27/FIGURE/k015.pdf>] [159 <./CHAP_RT27/FIGURE/ka01.pdf> <./CHAP_RT27/FIG
+URE/ka02.pdf> <./CHAP_RT27/FIGURE/ka04.pdf> <./CHAP_RT27/FIGURE/ka06.pdf> <./CH
+AP_RT27/FIGURE/k102.pdf> <./CHAP_RT27/FIGURE/ka08.pdf>]
+Chapter 6.
+[160
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 46--56
+
+ []
+
+[161]
+Underfull \hbox (badness 10000) in paragraph at lines 116--123
+
+ []
+
+[162]
+Underfull \hbox (badness 10000) in paragraph at lines 163--173
+
+ []
+
+[163]
+Underfull \hbox (badness 10000) in paragraph at lines 209--218
+
+ []
+
+) [164] (./thesis.bbl [165
+
+] [166] [167] [168] [169]
+Underfull \hbox (badness 1325) in paragraph at lines 481--485
+\OT1/cmr/m/n/12 Lay-ers for the Lin-earized Eu-ler Equa-tions. \OT1/cmr/m/it/12
+ Jour-nal of Com-pu-ta-tional
+ []
+
+[170]
+Underfull \hbox (badness 1189) in paragraph at lines 519--524
+[]\OT1/cmr/m/n/12 Hodson, H.P. (1985). An In-vis-cid Blade-to-Blade Pre-dic-tio
+n of a Wake-
+ []
+
+[171] [172]
+Underfull \hbox (badness 2460) in paragraph at lines 721--725
+[]\OT1/cmr/m/n/12 Mavriplis, D.J. (1995a). Three-Dimensional Multi-grid Reynold
+s-Averaged
+ []
+
+[173] [174] [175] [176] [177] [178] [179] [180]) (./APPEND/nondim.tex [181]
+Appendix A.
+[182
+
+]) (./APPEND/turbmo.tex [183]
+Appendix B.
+[184
+
+] [185]) (./APPEND/waves.tex [186]
+Appendix C.
+[187
+
+] [188] [189] [190] [191] [192]
+<APPEND/FIGURE/velo.pdf, id=1731, 597.23125pt x 845.1575pt>
+File: APPEND/FIGURE/velo.pdf Graphic file (type pdf)
+<use APPEND/FIGURE/velo.pdf>
+Package pdftex.def Info: APPEND/FIGURE/velo.pdf  used on input line 459.
+(pdftex.def)             Requested size: 110.57718pt x 156.49014pt.
+<APPEND/FIGURE/dens.pdf, id=1732, 597.23125pt x 845.1575pt>
+File: APPEND/FIGURE/dens.pdf Graphic file (type pdf)
+<use APPEND/FIGURE/dens.pdf>
+Package pdftex.def Info: APPEND/FIGURE/dens.pdf  used on input line 462.
+(pdftex.def)             Requested size: 110.57718pt x 156.49014pt.
+<APPEND/FIGURE/pres.pdf, id=1733, 597.23125pt x 845.1575pt>
+File: APPEND/FIGURE/pres.pdf Graphic file (type pdf)
+<use APPEND/FIGURE/pres.pdf>
+Package pdftex.def Info: APPEND/FIGURE/pres.pdf  used on input line 465.
+(pdftex.def)             Requested size: 110.57718pt x 156.49014pt.
+) (./APPEND/multgrid.tex [193] [194 <./APPEND/FIGURE/velo.pdf> <./APPEND/FIGURE
+/dens.pdf> <./APPEND/FIGURE/pres.pdf>]
+Appendix D.
+[195
+
+] [196] [197]
+<APPEND/FIGURE/aggloc.pdf, id=1772, 597.23125pt x 845.1575pt>
+File: APPEND/FIGURE/aggloc.pdf Graphic file (type pdf)
+<use APPEND/FIGURE/aggloc.pdf>
+Package pdftex.def Info: APPEND/FIGURE/aggloc.pdf  used on input line 149.
+(pdftex.def)             Requested size: 284.52756pt x 402.64043pt.
+ [198 <./APPEND/FIGURE/aggloc.pdf>] [199] [200] [201] [202]
+<APPEND/FIGURE/rk5.pdf, id=1794, 597.23125pt x 845.1575pt>
+File: APPEND/FIGURE/rk5.pdf Graphic file (type pdf)
+<use APPEND/FIGURE/rk5.pdf>
+Package pdftex.def Info: APPEND/FIGURE/rk5.pdf  used on input line 420.
+(pdftex.def)             Requested size: 284.52756pt x 402.64043pt.
+
+[203] [204 <./APPEND/FIGURE/rk5.pdf>] [205]
+<APPEND/FIGURE/lines.pdf, id=1811, 597.23125pt x 845.1575pt>
+File: APPEND/FIGURE/lines.pdf Graphic file (type pdf)
+<use APPEND/FIGURE/lines.pdf>
+Package pdftex.def Info: APPEND/FIGURE/lines.pdf  used on input line 552.
+(pdftex.def)             Requested size: 341.43306pt x 483.17624pt.
+<APPEND/FIGURE/nose1.pdf, id=1812, 597.23125pt x 845.1575pt>
+File: APPEND/FIGURE/nose1.pdf Graphic file (type pdf)
+<use APPEND/FIGURE/nose1.pdf>
+Package pdftex.def Info: APPEND/FIGURE/nose1.pdf  used on input line 564.
+(pdftex.def)             Requested size: 170.71652pt x 241.58167pt.
+<APPEND/FIGURE/nose2.pdf, id=1813, 597.23125pt x 845.1575pt>
+File: APPEND/FIGURE/nose2.pdf Graphic file (type pdf)
+<use APPEND/FIGURE/nose2.pdf>
+Package pdftex.def Info: APPEND/FIGURE/nose2.pdf  used on input line 567.
+(pdftex.def)             Requested size: 170.71652pt x 241.58167pt.
+<APPEND/FIGURE/nose3.pdf, id=1814, 597.23125pt x 845.1575pt>
+File: APPEND/FIGURE/nose3.pdf Graphic file (type pdf)
+<use APPEND/FIGURE/nose3.pdf>
+Package pdftex.def Info: APPEND/FIGURE/nose3.pdf  used on input line 570.
+(pdftex.def)             Requested size: 170.71652pt x 241.58167pt.
+<APPEND/FIGURE/nose4.pdf, id=1815, 597.23125pt x 845.1575pt>
+File: APPEND/FIGURE/nose4.pdf Graphic file (type pdf)
+<use APPEND/FIGURE/nose4.pdf>
+Package pdftex.def Info: APPEND/FIGURE/nose4.pdf  used on input line 573.
+(pdftex.def)             Requested size: 170.71652pt x 241.58167pt.
+<APPEND/FIGURE/conv1.pdf, id=1816, 597.23125pt x 845.1575pt>
+File: APPEND/FIGURE/conv1.pdf Graphic file (type pdf)
+<use APPEND/FIGURE/conv1.pdf>
+Package pdftex.def Info: APPEND/FIGURE/conv1.pdf  used on input line 590.
+(pdftex.def)             Requested size: 341.43306pt x 483.17624pt.
+) [206] [207 <./APPEND/FIGURE/lines.pdf>] [208 <./APPEND/FIGURE/nose1.pdf> <./A
+PPEND/FIGURE/nose2.pdf> <./APPEND/FIGURE/nose3.pdf> <./APPEND/FIGURE/nose4.pdf>
+] [209 <./APPEND/FIGURE/conv1.pdf>]
+(./thesis.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+ ***********
+ )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 354 ({)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 3807 strings out of 474222
+ 96662 string characters out of 5748732
+ 1959975 words of memory out of 5000000
+ 25952 multiletter control sequences out of 15000+600000
+ 568436 words of font info for 72 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,20n,65p,412b,485s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx6.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/share/tex
+mf/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on thesis.pdf (228 pages, 61762791 bytes).
+PDF statistics:
+ 1978 PDF objects out of 2073 (max. 8388607)
+ 1335 compressed objects within 14 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 991 words of extra memory for PDF output out of 10000 (max. 10000000)
+
